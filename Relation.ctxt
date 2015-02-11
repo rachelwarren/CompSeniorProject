@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Relation()
+comment0.text=\r\n\ Defualt\ Constructor\ for\ objects\ of\ class\ Relation\r\n
+comment1.params=n\ a\ d
+comment1.target=Relation(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Relation\ given\ string\ values\ as\ parameters\r\n\ @param\ n-the\ name\ of\ the\ relation\ \r\n\ @param\ a-the\ author\ \r\n\ @param\ docName-\ the\ file\ path\ of\ the\ ARFF\ doc\ you\ want\ to\ create\ MUST\ be\ a\ .arff\ file\ \r\n
+comment2.params=Date\ description\ atNames\ atTypes
+comment2.target=void\ arffHeader(java.lang.String,\ java.lang.String,\ java.lang.String[],\ java.lang.String[])
+comment2.text=\r\n\ Writes\ the\ attribute\ header\ to\ a\ arff\ document\ \r\n\ @param\ date\ \ the\ date\ of\ this\ article,\ will\ be\ in\ the\ \ comment\ \r\n\ @param\ atNames\ \ \ the\ name\ of\ the\ attributes\ \r\n\ @param\ atTypes\ \ \ the\ types\ of\ the\ attributes\ precondition\:\ |atName|\ \=\ |atTypes\ \r\n\ \r\n
+comment3.params=tabName\ Date\ description\ atNames\ atTypes
+comment3.target=void\ tabDel2arff(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String[],\ java.lang.String[])
+comment3.text=\r\n\ taboDel2arff\ converts\ a\ tab\ delimited\ file\ to\ the\ arff\ file\ format.\ \r\n\ Note\:\ only\ supports\ String\ and\ Numeric\ types,\ use\ the\ Numeric\ to\ Nominal\ Filter\ after\ applying\ to\ convert\ the\ numeric\ vectors.\ \r\n\ @param\ tabName\ \r\n\ @param\ Date\r\n\ @param\ Description\ \ \ a\ comment\ about\ what\ this\ relation\ is\ \r\n\ @param\ atNames\ \ \ the\ names\ of\ the\ attributes\ \r\n\ @param\ atTypes\ \ \ the\ tyes\ of\ the\ attributes\ \r\n\ |atName|\ \=\ |atTypes\ \r\n\ \r\n\ @throws\ IOException\ if\ it\ cannot\ find\ the\ location\ to\ right\ too\ \r\n
+comment4.params=Date\ description
+comment4.target=void\ newDoc(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ New\ Doc\ creates\ a\ new\ ARFF\ document\ with\ the\ relation\ header.\ The\ document\ name\ will\ be\ equal\ to\ the\ \r\n\ value\ of\ the\ field\ "docName"\ \r\n\ \r\n\ @param\ \ date\ String\ \ representation\ of\ the\ date\ created\ \r\n\ @param\ description\ \ \ comment\ describing\ what\ this\ relation\ does,\ will\ appear\ as\ a\r\n\ comment\ in\ the\ header\r\n\ \r\n\ @throws\ IOException\ if\ the\ file\ path\ cannot\ be\ found\ \r\n
+comment5.params=lexisdoc
+comment5.target=void\ addArticles(java.lang.String)
+comment5.text=\r\n\ addArticles\ method\ parses\ a\ document\ of\ lexis-nexis\ querries\ (in\ html\ format)\ and\ adds\ the\ \r\n\ articles\ as\ instances\ to\ this\ Relation\ \r\n\r\n\ @param\ \ \ the\ file\ path\ name,\ must\ be\ in\ HTML\ format\ \r\n\ @return\ \ \ \ \ void\ \r\n\ \r\n\ @throws\ IOException\ if\ the\ filepath\ cannot\ be\ found\ \r\n
+comment6.params=lexisdoc
+comment6.target=java.util.ArrayList\ LexisInstances(java.lang.String)
+comment6.text=\r\n\ LexisInstances\ method\ parses\ a\ document\ of\ lexis-nexis\ querries\ (in\ html\ format)\ and\ returns\ them\ as\ an\ arrayList\ of\ the\ LexisInstance\ types\ \r\n\r\n\ @param\ \ \ the\ file\ path\ name,\ must\ be\ in\ HTML\ format\ \r\n\ @return\ \ \ \ \ an\ array\ of\ the\ Lexis\ Instance\ objects\ \r\n\ \r\n\ @throws\ IOException\ if\ the\ filepath\ cannot\ be\ found\r\n
+comment7.params=lexisdoc
+comment7.target=int\ addInstance(java.lang.String)
+comment7.text=\r\n\ Adds\ instances\ to\ this\ relation\ of\ the\ articles\ in\ the\ lexisdoc\ which\ it\ takes\ as\ its\ parameter.\r\n\ \r\n\ @param\ lexisdox\ \ a\ document\ of\ html\ text\ of\ the\ lexisnexis\ output\ \r\n\ \r\n\ @throws\ IOException\ if\ the\ filepath\ cannot\ be\ found\r\n
+numComments=8

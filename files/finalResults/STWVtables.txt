@@ -1,0 +1,104 @@
+File created : 2013-12-13
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+The following models are tested: 
+Defualt: stoplist: no, stemming: no , stem exceptions: NA, training size: random 10%, numeric word counts
+StopList_Only: stoplist: yes, stemmer: no, stem exceptions: NA , training size: random 10% , numeric word counts
+Basic_stemming_only: stoplist: no, stemmer: yes, stem exceptions: none, training size: random 10%, numeric word counts 
+Stoplist_&_Stemmer: stoplist: yes, stemmer: yes, stem exceptions: none, training size: random 10%, numeric word counts 
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent-- predicts the was coded variable 
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+The following models are tested: 
+Defualt: stoplist: no, stemming: no , stem exceptions: NA, training size: random 10%, numeric word counts
+StopList_Only: stoplist: yes, stemmer: no, stem exceptions: NA , training size: random 10% , numeric word counts
+Basic_stemming_only: stoplist: no, stemmer: yes, stem exceptions: none, training size: random 10%, numeric word counts 
+Stoplist_&_Stemmer: stoplist: yes, stemmer: yes, stem exceptions: none, training size: random 10%, numeric word counts 
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent-- predicts the was coded variable 
+modelName, Defualt, StopList_Only, Basic_stemming_only, Stoplist_&_Stemmer
+attributes, 2009, 2002, 2010, 2010
+correctly classified, 627.0, 639.0, 637.0, 639.0
+incorrectly classified, 336.0, 324.0, 326.0, 324.0
+kappa score, 0.3164441439918877, 0.32443586068324615, 0.3293785914169142, 0.32290238016701095
+precision, 0.384, 0.3912133891213389, 0.39183673469387753, 0.3907563025210084
+recall, 0.8727272727272727, 0.85, 0.8727272727272727, 0.8454545454545455
+confusion matrix, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 435 308 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 452 291 |   a = 0
+  33 187 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 445 298 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 453 290 |   a = 0
+  34 186 |   b = 1
+
+
+_________________________________________________
+
+Model B: is_factchecking varaible
+modelName, Defualt, StopList_Only, Basic_stemming_only, Stoplist_&_Stemmer
+attributes, 2050, 2006, 2099, 2032
+correctly classified, 149.0, 154.0, 151.0, 154.0
+incorrectly classified, 71.0, 66.0, 69.0, 66.0
+kappa score, 0.34314550042052144, 0.3861503339815675, 0.36014162873039973, 0.3868761084367874
+precision, 0.6642857142857143, 0.6711409395973155, 0.6666666666666666, 0.673469387755102
+recall, 0.7948717948717948, 0.8547008547008547, 0.8205128205128205, 0.8461538461538461
+confusion matrix, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+  54  49 |   a = 0
+  17 100 |   b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 55 48 |  a = 0
+ 21 96 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 55 48 |  a = 0
+ 18 99 |  b = 1
+
+
+_________________________________________________
+
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-14
+_______________________________________

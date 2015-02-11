@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=weka.core.Instance\ processOne(weka.core.Instance)
+comment0.text=\r\n\ A\ method\ for\ cleaning\ a\ single\ instance\ \r\n\ @param\ \ i\ \ \ \ an\ instance\ to\ process\ \r\n\ @return\ \ \ \ \ \ \ \ the\ processed\ instance\ \r\n
+comment1.params=i
+comment1.target=weka.core.Instances\ processData(weka.core.Instances)
+comment1.text=\r\n\ A\ method\ for\ cleaning\ an\ entire\ dataset\ \r\n\ \r\n\ @param\ \ i\ \ \ \ instances\ to\ process\ \r\n\ @return\ \ \ \ \ \ \ \ the\ processed\ instances\ (ready\ for\ classification);\r\n
+numComments=2

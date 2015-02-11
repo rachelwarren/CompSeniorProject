@@ -1,0 +1,21 @@
+These are the tests of the new stemmer
+Models of the is_relvenent variable
+modelName, Stopwords only, Stopwords and basic Stemmer, No stopwords and modified stemmer, stopwords modified stemmer
+attributes, 2006, 2009, 2011, 2029
+correctly classified, 527.0, 505.0, 505.0, 517.0
+incorrectly classified, 207.0, 229.0, 229.0, 217.0
+kappa score, 0.4194946013891967, 0.3663396943399356, 0.3663396943399356, 0.3968707163575503
+precision, 0.5190615835777126, 0.48725212464589235, 0.48725212464589235, 0.504297994269341
+recall, 0.8045454545454546, 0.7818181818181819, 0.7818181818181819, 0.8
+
+
+Models of the is_factchecking variable
+modelName, Stopwords only, Stopwords and basic Stemmer, No stopwords and modified stemmer, stopwords modified stemmer
+attributes, 2006, 2099, 2101, 2034
+correctly classified, 157.0, 152.0, 152.0, 157.0
+incorrectly classified, 63.0, 68.0, 68.0, 63.0
+kappa score, 0.4137055837563452, 0.367548828950706, 0.367548828950706, 0.4130103337286125
+precision, 0.68, 0.6644295302013423, 0.6644295302013423, 0.6776315789473685
+recall, 0.8717948717948718, 0.8461538461538461, 0.8461538461538461, 0.8803418803418803
+
+

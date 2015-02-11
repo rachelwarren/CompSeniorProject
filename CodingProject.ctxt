@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=rootDirectory\ year
+comment0.target=CodingProject(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CodingProject\r\n\ @rootDirectory\ \ \ the\ path\ name\ of\ the\ directory\ to\ create\ the\ different\ files\ in\ \r\n\ @year\ \ \ \ the\ year\ for\ the\ analysis\ \r\n\ \r\n\ @throw\ ConvertException\ if\ the\ training\ data\ cannot\ be\ build\ \r\n
+comment1.params=lexisdoc
+comment1.target=java.lang.String\ classifyArticles(java.lang.String)
+comment1.text=\r\n\ @param\ lexisdoc\ \ the\ file\ path\ of\ the\ lexis\ document\ \r\n\ \r\n\ @return\ \ a\ string\ message\ about\ how\ many\ articles\ were\ classified\ into\ each\ folder\ \r\n
+comment2.params=path
+comment2.target=java.util.ArrayList\ addDirectory(java.lang.String)
+comment2.text=\r\n\ Classifies\ all\ of\ the\ html\ documents\ in\ a\ folder.\r\n\r\n\ @param\ \ path\ the\ location\ of\ the\ directory\ (must\ end\ with\ "/"\ \r\n\ @return\ \ \ \ \ a\ string\ array\ describing\ the\ reults\ of\ each\ additions\ \r\n
+comment3.params=sorted\ includeFailed
+comment3.target=java.lang.String\ returnTOC(boolean,\ boolean)
+comment3.text=\r\n\ TOC\ the\ table\ of\ contents\ \r\n\ @param\ sorted\ \ \ whether\ the\ table\ of\ contents\ should\ be\ sorted\ \r\n\ @param\ includedFailed\ \ \ \ whether\ the\ articles\ that\ were\ not\ successfully\ classified\ should\ be\ included\ in\ the\ \r\n
+comment4.params=
+comment4.target=int\ getNumCode()
+comment4.text=\r\n\ Returns\ the\ number\ of\ articles\ succesfully\ classified\ so\ far\ "to\ code"\ \r\n
+comment5.params=
+comment5.target=int\ getNumIgnore()
+comment5.text=\r\n\ Returns\ the\ number\ of\ articles\ that\ were\ classified\ as\ not\ to\ code\ \r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

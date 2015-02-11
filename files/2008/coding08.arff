@@ -1,0 +1,221 @@
+
+% Title: ARFF file for 2008Code
+%arff file of 2008 coding, contains only the article name and the date of the article
+%Created by Rachel Warren
+ 
+@RELATION 2008Code
+ 
+ %attribute declarations
+@ATTRIBUTE title STRING
+@ATTRIBUTE date DATE "yyyy-MM-dd"
+@ATTRIBUTE factchecking NUMERIC
+@data
+'...while obama discusses his tax plans', "2008-10-01", 1
+'3 a.m.\' mccain ad uses clinton clips', "2008-08-27", 1
+'\"6 things obama must do between now and nov. 4; the keys: get tough, inspire confidence\"', "2008-08-29", 0
+'\"a canceled obama visit, and the story behind it\"', "2008-07-29", 1
+'a message from john mccain', "2008-09-12", 1
+'\"a new landscape, the same proposals\"', "2008-09-23", 0
+'\"a positively negative home stretch; mccain, obama break tradition by staying on the attack\"', "2008-11-03", 0
+'a sharp attack on obama', "2008-09-13", 1
+'a way back to the high road?;', "2008-08-07", 1
+'ad calls mccain\'s campaign \'dishonorable\'; obama on offensive to regain traction', "2008-09-16", 0
+'ad confronts the inevitable', "2008-07-29", 1
+'ad on sex education distorts obama policy', "2008-09-11", 1
+'\"after midsummer\'s silliness, a purpose-driven campaign?\"', "2008-08-20", 1
+'america\'s commercials at the olympics', "2008-08-25", 0
+'an emphasis on energy', "2008-07-09", 1
+'applying a personal touch to the campaign', "2008-06-23", 0
+'\"as aides map aggressive race, mccain often steers off course\"', "2008-07-31", 1
+'\"as an issue, taxes favor obama; polls lean toward democrat on a traditional gop strength\"', "2008-10-24", 1
+'assailing with energy', "2008-07-09", 0
+'attacking obama\'s associations', "2008-10-11", 1
+'\"attacks, counterattacks are order of day; candidates trade hostile charges increasingly\"', "2008-08-01", 0
+'\"barack obama, john mccain and the language of race\"', "2008-09-22", 0
+'biden sinks his teeth into new role; obama\'s vp pick assumes position as \'attack dog\' and link to middle class', "2008-08-28", 0
+'both campaigns distorting facts on money matters', "2008-10-16", 1
+'both camps underscore choices', "2008-10-30", 1
+'both candidates misleading tv viewers with attacks', "2008-10-08", 1
+'both sides seeking to be what women want', "2008-09-15", 0
+'\"bret baier, sharing his pride and joy\"', "2008-08-02", 0
+'campaign slog 67 days to go!', "2008-08-29", 0
+'campaign slog 70 days to go!', "2008-08-26", 1
+'campaigns shift as mccain choice alters the race', "2008-08-31", 0
+'campaigns tangle over health care', "2008-10-18", 1
+'can obama run the offense?', "2008-07-29", 0
+'can this planet be saved?', "2008-08-01", 1
+'\"candidates\' comments center on economics; obama, mccain try to reassure voters on finances\"', "2008-09-17", 0
+'candidates continue debate on relief for mortgage holders', "2008-10-09", 0
+'\"candidates follow up on plan; both men talk to president, as well as members of their parties in congress\"', "2008-10-01", 0
+'candidates paint each other as \'celebrity\' obama and \'more of the same\' mccain', "2008-08-07", 1
+'candidates pin blame in financial \'crisis\'; but rivals don\'t agree on causes of wall st. woes', "2008-09-16", 0
+'candidates pushing hard for the latino vote', "2008-07-14", 0
+'clinton tells her supporters to back obama', "2008-08-26", 1
+'\"clinton, fundraisers to meet with obama\"', "2008-06-18", 0
+'closing the whopper gap', "2008-09-22", 1
+'conservative group takes on obama in ad and film', "2008-07-22", 0
+'continuing deception; mr. mccain\'s ads on taxes are just plain false.', "2008-08-31", 1
+'crude campaigning', "2008-08-06", 1
+'\"dangerous territory; as the campaigns plunge into the mud, how should voters evaluate their claims?\"', "2008-10-07", 1
+'\"debates over, candidates begin final sprint\"', "2008-10-27", 0
+'\"denver\'s not their party, but clintons still a focus; their words and actions could endure beyond \'08\"', "2008-08-26", 1
+'dissecting the negatives', "2008-09-16", 1
+'dollar bills and paris hilton; both presidential candidates are capable of better.', "2008-08-03", 1
+'dubious claims in obama\'s ads', "2008-09-26", 1
+'economic downturn sidelines donors to \'527\' groups', "2008-10-19", 0
+'energy returns as major issue; obama links mccain to administration', "2008-08-06", 0
+'extreme campaign makeover; the sound bite and the fury over the nominees\' houses', "2008-08-22", 0
+'fact checkers find rivals\' ads low on truth', "2008-09-23", 1
+'\"fighting cancer, kennedy adds an opening spark\"', "2008-08-26", 0
+'flip-flops more fashionable this election; many due to changes in circumstances', "2008-08-08", 0
+'\"for senate veteran, \'i\'m the underdog\'\"', "2008-08-22", 0
+'g.o.p. commercial focuses on the bailout...', "2008-10-01", 1
+'group plans ad criticizing obama\'s ties to ex-radical', "2008-08-22", 1
+'groups play up obama link to \'60s radical; conservatives say weatherman bill ayers influenced candidate', "2008-08-26", 0
+'hitting hard on debatable pointshitting hard on debatable points', "2008-09-23", 1
+'houses add up to a snag for mccain; campaign has cast obama as elitist', "2008-08-22", 1
+'immigration deception', "2008-09-19", 1
+'\"in a red state, obama tackles issues of national security \"', "2008-07-17", 0
+'\"in ads, gop stresses obama\'s ties to chicago developer; but nominee\'s relationship with rezko appears to be having little impact on voters, polls find\"', "2008-10-23", 1
+'\"in biden, a life story to complement obama\'s; delaware senator could help lure working class, clinton supporters\"', "2008-08-25", 0
+'\"in candidates, 2 approaches to wall street\"', "2008-09-16", 0
+'\"in flag city usa, false obama rumors are flying\"', "2008-06-30", 0
+'\"in racially aware akron, campaigns playing well so far\"', "2008-08-23", 0
+'\"in spanish, mccain criticizes obama on immigration\"', "2008-09-16", 1
+'\"in speech, obama refines his goal\"', "2008-08-27", 0
+'independent groups fire barrages through ads; veterans blast obama; nurses go after palin', "2008-10-02", 1
+'invoking the children', "2008-06-28", 0
+'\"is paris, like, ready to lead?; hilton throws her hot into the ring\"', "2008-08-07", 1
+'it\'s well past 3 a.m. do you remember the election\'s best ads?', "2008-11-03", 0
+'joe the marketer responds to a category 5 hurricane', "2008-10-19", 0
+'loan titans paid mccain adviser nearly $2 million', "2008-09-22", 1
+'making america stupid', "2008-09-14", 0
+'\"mccain ad paints obama as a celebrity, not a leader; ad watch: the mccain campaign\"', "2008-07-31", 0
+'mccain ad says country is \'worse off\' than 4 years ago', "2008-08-06", 1
+'mccain ad: clinton\'s \'truth hurt\'', "2008-08-25", 1
+'mccain aide\'s firm was paid by freddie mac', "2008-09-24", 0
+'mccain and obama urge greater oversight in a financial bailout plan', "2008-09-22", 0
+'mccain and social security', "2008-09-24", 1
+'mccain attack ad cheapens campaign. more to come?', "2008-07-29", 1
+'mccain attack ads called inevitable -- and ineffective', "2008-10-14", 1
+'mccain barbs stirring outcry as distortions', "2008-09-13", 1
+'mccain camp says obama plays \'race card\'', "2008-08-01", 0
+'mccain campaign sustains the focus on obama\'s links to a 1960s radical', "2008-10-12", 0
+'mccain charge against obama lacks evidence', "2008-07-30", 1
+'\"mccain co-chairman, under fire, steps aside\"', "2008-07-19", 1
+'mccain confronts obama on war hearings and troop votes', "2008-07-20", 1
+'mccain draws line on attacks as crowds cry \'fight back\'', "2008-10-11", 0
+'\"mccain driving debate, but some fear swerving; gop insiders want more consistent theme\"', "2008-06-22", 0
+'mccain embraces regulation after many years of opposition', "2008-09-17", 0
+'mccain emphasizes distance from bush; criticism of administration stepped up', "2008-10-21", 0
+'mccain follows clinton lead with \'3 a.m.\' approach', "2008-08-14", 0
+'mccain for president', "2008-10-24", 1
+'mccain gets a third-rail shock', "2008-07-10", 0
+'\"mccain is painted as wealthy, clueless\"', "2008-08-22", 1
+'mccain is trying to define obama as out of touch', "2008-07-31", 1
+'mccain leads obama in race to distort each other\'s records', "2008-09-23", 1
+'mccain links obama and high gas prices', "2008-07-22", 1
+'\"mccain moves to soften the tone at rallies, if not in ads\"', "2008-10-11", 0
+'mccain paints obama as a tax hound', "2008-08-09", 1
+'mccain pitches a \'bipartisan\' plan for achieving energy security', "2008-06-28", 1
+'mccain plans fiercer strategy against obama', "2008-10-04", 1
+'mccain prepares to announce his running mate', "2008-08-29", 0
+'mccain says obama plays politics on iraq; some fellow republicans question tactics', "2008-07-28", 1
+'mccain showcases his environmental side', "2008-06-18", 1
+'mccain spot distorts obama comment about military', "2008-10-07", 1
+'mccain steps up attacks on his opponent\'s foreign policy credentials', "2008-08-28", 1
+'mccain strafes obama on war', "2008-07-18", 1
+'mccain tries to link obama to financial crisis', "2008-09-29", 1
+'\"mccain urges more drilling, blames obama for gas prices\"', "2008-07-22", 1
+'mccain wraps distortions around one truth', "2008-09-13", 1
+'\"mccain, obama offer ideas for rescue package; both want raise in federal deposit insurance limit\"', "2008-10-01", 0
+'\"mccain, on the economy\"', "2008-09-18", 1
+'\"mccain, que paso?; the gop nominee is paying for his party\'s sins -- specifically the mishandling of immigration reform. democrats, though also guilty, have escaped blame.\"', "2008-10-28", 1
+'\"mccain, vp pick to hit ground running on way to st. paul\"', "2008-08-29", 0
+'mccain\'s ad formula employs lowest common denominator', "2008-08-01", 1
+'mccain\'s break with bush', "2008-08-07", 1
+'mccain\'s criticism on wider stage than obama\'s; candidates take different approaches to advertising during olympics', "2008-08-13", 1
+'mccain\'s declaration of independence', "2008-06-18", 0
+'\"mccain\'s \'education\' spot is dishonest, deceptive\"', "2008-09-11", 1
+'mccain\'s green-eyed monster', "2008-08-06", 0
+'mr. obama\'s small-business tax hike', "2008-08-13", 0
+'mud pies for \'that one\'', "2008-10-08", 0
+'\"need a tech-savvy president?; as a practical matter, no. but as a political matter ...\"', "2008-10-09", 0
+'new group linked to g.o.p. unveils ad attacking obama', "2008-07-09", 0
+'no vacation from mccain\'s attacks; gop campaign launches three ads as obama heads for a week in hawaii', "2008-08-09", 1
+'now playing', "2008-10-30", 0
+'\"now that we\'ve \'won,\' let\'s come home\"', "2008-06-22", 0
+'obama ad alleges mccain is in oil companies\' \'pocket\'', "2008-08-05", 1
+'obama ad on lobbying turns past into present', "2008-09-16", 1
+'obama ad tags mccain as \'washington celebrity\'', "2008-08-12", 1
+'\"obama airs 30-minute spot, releases anti-palin ad\"', "2008-10-30", 0
+'obama attacks mccain in a bid to attract hispanic voters', "2008-09-19", 1
+'obama attacks mccain\'s mortgage plan', "2008-10-10", 1
+'\"obama calls his pick, biden, both a statesman and fighter\"', "2008-08-24", 0
+'obama campaign begins counterattack', "2008-09-13", 1
+'obama campaign wages fight against conservative group\'s ads', "2008-08-28", 1
+'obama defends his trip; changes focus to economy', "2008-07-28", 0
+'\"obama hits back, too softly for some\"', "2008-08-07", 0
+'obama hits mccain on mortgages', "2008-10-10", 1
+'obama moves to reintroduce himself to voters', "2008-06-23", 0
+'obama says his critics haven\'t been listening', "2008-07-09", 0
+'obama slams mccain\'s inability to tally family-owned residences', "2008-08-22", 1
+'obama spot is heavy on supposition', "2008-10-03", 1
+'obama urges opening up oil reserves; policy shift is his second in a week on energy issue; mccain urges immediate drilling', "2008-08-05", 0
+'\"obama, mccain stand united in pressing hard for rescue\"', "2008-10-02", 1
+'\"obama, mccain trade shots over responses to financial meltdown\"', "2008-09-19", 0
+'obama\'s ad campaign extends to more states; dem has money to take message to traditional republican territory', "2008-07-30", 0
+'obama\'s ads in key states go on attack', "2008-08-20", 1
+'\"obama\'s chicago, in mccain\'s eyes\"', "2008-09-23", 1
+'\"obama\'s family night out; after kennedy electrifies crowd, the would-be first lady calls on democrats to \'stop doubting\' and \'start dreaming\'\"', "2008-08-25", 1
+'obama\'s iffy numbers on mccain health plan', "2008-10-22", 1
+'obama\'s judgment is questioned', "2008-08-22", 1
+'obama\'s panic', "2008-09-17", 1
+'obama\'s response ad reflects lessons of 2004', "2008-08-27", 1
+'\"on the small screen, intimacy and welcome silence for obama\'s big rally\"', "2008-08-29", 0
+'\"outside groups plan to spend heavily; mccain, obama frown on efforts by organizations to sway election\"', "2008-06-18", 0
+'palin comes out fighting; gop nominates mccain after running mate attacks obama on experience', "2008-09-04", 0
+'paris for president?', "2008-08-06", 0
+politics, "2008-08-21", 0
+'polls cause campaigns to change their itineraries', "2008-10-17", 0
+'portraying mccain as a man of the past', "2008-09-13", 1
+'portraying mccain as out of touch', "2008-08-20", 1
+'race in the sunlight', "2008-06-24", 0
+'\"race, celebrity and the presidential campaign\"', "2008-08-02", 0
+'republicans look for edge on environmental issues', "2008-07-09", 0
+'rival tickets are redrawing battlegrounds', "2008-09-07", 0
+'running while black', "2008-08-02", 0
+'rural swath of a big state tests obama', "2008-08-21", 0
+'so much for st. john', "2008-08-01", 0
+'spanish political ads\' multiple translations; outreach can send a mixed message', "2008-10-30", 0
+'summer of love.', "2008-07-09", 1
+'talk of war and family highlights mccain\'s kickoff commercial', "2008-06-07", 1
+'\"telling moments, or trivial pursuits?\"', "2008-07-18", 0
+'that was the obama we\'re still waiting for', "2008-08-10", 1
+'the ads that aren\'t; candidates let media spread the message', "2008-09-11", 1
+'the case for cool', "2008-08-24", 0
+'the ever-malleable mr. obama', "2008-06-27", 0
+'the final days', "2008-08-31", 0
+'the good fighter', "2008-08-26", 0
+'the making (and remaking and remaking) of the candidate', "2008-10-26", 0
+'the mccain of the week', "2008-09-18", 0
+'the oil man cometh', "2008-07-24", 1
+'the reliable source', "2008-10-29", 0
+'the relliable source', "2008-10-29", 0
+'the resentment strategy', "2008-09-05", 0
+'the silver bullet; steve schmidt makes sure his candidate knows exactly what he is shooting for', "2008-08-21", 0
+'the talk', "2008-08-05", 0
+'the trail', "2008-10-28", 1
+'\"to listen is taxing; new campaign ads distort, rather than enlighten.\"', "2008-08-10", 1
+'two against the one', "2008-08-20", 0
+'two answers to the question \'more of the same?\'', "2008-10-17", 1
+'unauthorized ad reminds voters about a certain pastor', "2008-11-03", 1
+'veterans group for mccain', "2008-07-09", 1
+'veterans hit the battlegrounds', "2008-07-09", 0
+'\"voters want candidate with energy answers; poll finds support for new habits, new sources\"', "2008-08-01", 0
+'voting with their eyeballs', "2008-08-04", 0
+'warner has cash lead in virginia senate race', "2008-07-16", 0
+'\"what\'s the pig deal?; with a phony flap and a misleading attack ad, the mccain campaign sinks into silliness.\"', "2008-09-11", 1
+'\"with commercial, mccain gets much more than his money\'s worth\"', "2008-07-30", 1
+'with the democrats in denver', "2008-08-25", 1
+'\"with time running short, campaigns engage in a noisy air wa\"', "2008-10-29", 0

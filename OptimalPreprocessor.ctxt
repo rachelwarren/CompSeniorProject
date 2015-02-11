@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OptimalPreprocessor()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ OptimalPreprocessor\r\n\ it\ builds\ the\ stringToWordVector\ which\ will\ be\ used\ by\ both\ methods\ \r\n\ (that\ way\ the\ a\ new\ filter\ need\ not\ be\ created\ every\ time\ the\ proccess\ method\ is\ called);\ \r\n
+comment1.params=i
+comment1.target=weka.core.Instance\ processOne(weka.core.Instance)
+comment1.text=\r\n\ A\ method\ for\ cleaning\ a\ single\ instance\ \r\n\ @param\ \ i\ \ \ \ an\ instance\ to\ process\ \r\n\ @return\ \ \ \ \ \ the\ processed\ instance\ \r\n
+comment2.params=i
+comment2.target=weka.core.Instances\ processData(weka.core.Instances)
+comment2.text=\r\n\ A\ method\ for\ cleaning\ an\ entire\ dataset\ \r\n\ \r\n\ @param\ \ i\ \ \ \ instances\ to\ process\ \r\n\ @return\ \ \ \ \ \ \ \ the\ processed\ instances\ (ready\ for\ classification);\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

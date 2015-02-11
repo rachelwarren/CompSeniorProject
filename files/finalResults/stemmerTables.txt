@@ -1,0 +1,66 @@
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+The following models are tested: 
+Basic_Stemmer: stoplist: yes, stemmer: yes, stem exceptions: none, training size: random 10%, numeric word counts 
+Custom_Stemmer: stoplist: yes, stemmer: yes, stem exceptions: yes*, training size: random 10%, numeric word counts
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent-- predicts the was coded variable 
+modelName, Basic_Stemmer, Custom_Stemmer
+attributes, 2010, 2009
+correctly classified, 639.0, 627.0
+incorrectly classified, 324.0, 336.0
+kappa score, 0.32290238016701095, 0.3164441439918877
+precision, 0.3907563025210084, 0.384
+recall, 0.8454545454545455, 0.8727272727272727
+confusion matrix, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 453 290 |   a = 0
+  34 186 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 435 308 |   a = 0
+  28 192 |   b = 1
+
+
+_________________________________________________
+
+Model B: is_factchecking varaible
+modelName, Basic_Stemmer, Custom_Stemmer
+attributes, 2032, 2050
+correctly classified, 154.0, 149.0
+incorrectly classified, 66.0, 71.0
+kappa score, 0.3868761084367874, 0.34314550042052144
+precision, 0.673469387755102, 0.6642857142857143
+recall, 0.8461538461538461, 0.7948717948717948
+confusion matrix, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 55 48 |  a = 0
+ 18 99 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+
+
+_________________________________________________
+
+*Stemmer Exceptions: [ad, advertisement, ads, advertisements, commercial, commercials, spot, spots]
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+Results of Lexis Model generated : 2013-12-14
+_______________________________________

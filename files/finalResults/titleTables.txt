@@ -1,0 +1,190 @@
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+The following models are tested: 
+title_repeat_1:  custom stemming and stopwords removal, title is repeated once
+title_repeat_3:  custom stemming and stopwords removal, title is repeated thee times
+title_repeat_5:  custom stemming and stopwords removal, title is repeated five times
+title_repeat_10:  custom stemming and stopwords removal, title is repeated ten times
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent, i.e. predicts the was coded variable 
+modelName, title_repeat_1, title_repeat_3, title_repeat_5, title_repeat_10
+attributes, 2009, 2013, 2013, 2013
+correctly classified, 627.0, 626.0, 629.0, 627.0
+incorrectly classified, 336.0, 337.0, 334.0, 336.0
+kappa score, 0.3164441439918877, 0.315166401833364, 0.3205129288490789, 0.317951290666644
+precision, 0.384, 0.38323353293413176, 0.386, 0.3844621513944223
+recall, 0.8727272727272727, 0.8727272727272727, 0.8772727272727273, 0.8772727272727273
+confusion matrix, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 435 308 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 434 309 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 436 307 |   a = 0
+  27 193 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 434 309 |   a = 0
+  27 193 |   b = 1
+
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+The following models are tested: 
+title_repeat_1:  custom stemming and stopwords removal, title is repeated once
+title_repeat_3:  custom stemming and stopwords removal, title is repeated thee times
+title_repeat_5:  custom stemming and stopwords removal, title is repeated five times
+title_repeat_10:  custom stemming and stopwords removal, title is repeated ten times
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent, i.e. predicts the was coded variable 
+modelName, title_repeat_1, title_repeat_3, title_repeat_5, title_repeat_10
+attributes, 2009, 2013, 2013, 2013
+correctly classified, 627.0, 626.0, 629.0, 627.0
+incorrectly classified, 336.0, 337.0, 334.0, 336.0
+kappa score, 0.3164441439918877, 0.315166401833364, 0.3205129288490789, 0.317951290666644
+precision, 0.384, 0.38323353293413176, 0.386, 0.3844621513944223
+recall, 0.8727272727272727, 0.8727272727272727, 0.8772727272727273, 0.8772727272727273
+confusion matrix, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 435 308 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 434 309 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 436 307 |   a = 0
+  27 193 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 434 309 |   a = 0
+  27 193 |   b = 1
+
+
+_________________________________________________
+
+Model B: is_factchecking varaible
+modelName, title_repeat_1, title_repeat_3, title_repeat_5, title_repeat_10
+attributes, 2052, 2054, 2055, 2055
+correctly classified, 149.0, 149.0, 149.0, 149.0
+incorrectly classified, 71.0, 71.0, 71.0, 71.0
+kappa score, 0.34314550042052144, 0.34314550042052144, 0.34314550042052144, 0.34314550042052144
+precision, 0.6642857142857143, 0.6642857142857143, 0.6642857142857143, 0.6642857142857143
+recall, 0.7948717948717948, 0.7948717948717948, 0.7948717948717948, 0.7948717948717948
+confusion matrix, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+
+
+_________________________________________________
+
+Results of Lexis Model generated : 2013-12-14
+_______________________________________
+The following models are tested: 
+title_repeat_1:  custom stemming and stopwords removal, title is repeated once
+title_repeat_3:  custom stemming and stopwords removal, title is repeated thee times
+title_repeat_5:  custom stemming and stopwords removal, title is repeated five times
+title_repeat_10:  custom stemming and stopwords removal, title is repeated ten times
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent, i.e. predicts the was coded variable 
+modelName, title_repeat_1, title_repeat_3, title_repeat_5, title_repeat_10
+attributes, 2009, 2013, 2013, 2013
+correctly classified, 627.0, 626.0, 629.0, 627.0
+incorrectly classified, 336.0, 337.0, 334.0, 336.0
+kappa score, 0.3164441439918877, 0.315166401833364, 0.3205129288490789, 0.317951290666644
+precision, 0.384, 0.38323353293413176, 0.386, 0.3844621513944223
+recall, 0.8727272727272727, 0.8727272727272727, 0.8772727272727273, 0.8772727272727273
+confusion matrix, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 435 308 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 434 309 |   a = 0
+  28 192 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 436 307 |   a = 0
+  27 193 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 434 309 |   a = 0
+  27 193 |   b = 1
+
+
+_________________________________________________
+
+Model B: is_factchecking varaible
+modelName, title_repeat_1, title_repeat_3, title_repeat_5, title_repeat_10
+attributes, 2052, 2054, 2055, 2055
+correctly classified, 149.0, 149.0, 149.0, 149.0
+incorrectly classified, 71.0, 71.0, 71.0, 71.0
+kappa score, 0.34314550042052144, 0.34314550042052144, 0.34314550042052144, 0.34314550042052144
+precision, 0.6642857142857143, 0.6642857142857143, 0.6642857142857143, 0.6642857142857143
+recall, 0.7948717948717948, 0.7948717948717948, 0.7948717948717948, 0.7948717948717948
+confusion matrix, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+, === Confusion Matrix ===
+
+  a  b   <-- classified as
+ 56 47 |  a = 0
+ 24 93 |  b = 1
+
+
+_________________________________________________
+

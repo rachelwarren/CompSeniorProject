@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name\ test
+comment0.target=java.lang.String[]\ evaluationMatrix(java.lang.String,\ LexisClassifier)
+comment0.text=\r\n\ EvaluationMatrix\ builds\ an\ evaluation\ on\ the\ instances\ and\ returns\ a\ string\ array\ of\ the\ following\ \r\n\ statitics\ about\ that\ classifier\ \r\n\ \ \ \ \ \ \r\n\r\n\ @param\ \ name\ the\ name\ of\ the\ model\ \r\n\ @param\ LexisClassifier\ \ \ the\ classifier\ to\ test\ (recall\ that\ a\ LexisClassifier\ carries\ the\ training\ \r\n\ data\ with\ it.\ \r\n\ \r\n\ @return\ an\ array\ with\ the\ results\ of\ various\ measures\ of\ a\ 10\ fold\ cross\ validation.\r\n\ \r\n\ \ a[0]\ model\ name,\ \r\n\ \ a[1]\ \#correctly\ classified\r\n\ \ a[2]\#incorretly\ classified\r\n\ \ a[3]precision\r\n\ \ a[4]recall\r\n\ \ a[5]\ the\ confusion\ matrix)\r\n\ \r\n
+comment1.params=name\ i
+comment1.target=java.lang.String[]\ evaluationMatrix(java.lang.String,\ weka.core.Instances)
+comment1.text=\r\n\ Same\ as\ test\ model,\ only\ assumes\ that\ defualt\ multinomial\ NaiveBayes\ model\ \r\n\ \ \ \ \r\n\ @param\ \ name\ the\ name\ of\ the\ model\ \r\n\ @param\ i\ the\ data\ \r\n\ @return\ \ the\ result\ of\ the\ test\r\n
+comment2.params=b\ data
+comment2.target=java.util.ArrayList[]\ getPredictionsByLexNum(int,\ weka.core.Instances)
+comment2.text=\r\n\ Get\ Predictions\ prints\ a\ list\ of\ false\ postives/negatives\ and\ correct\ predictions\ by\ lexis\ number\ \r\n\r\n\ @param\ b\ high\ end\ of\ the\ range\ of\ articles\ to\ be\ in\ the\ training\ set\ \r\n\ @return\ \ \ \ an\ array\ list\ of\ the\ lexis\ numbers\ \ \ \r\n\ \ \ \ \ \ a[0]\ \=\ training\ articles\ \r\n\ \ \ \ \ \ a[1]\ \=\ false\ positives\ \r\n\ \ \ \ \ \ a[2]\ \=\ false\ negatives\ \r\n\ \ \ \ \ \ a[3]\ \=\ correct\ predictions\ \r\n
+comment3.params=trainingData
+comment3.target=double[]\ attPredictions(weka.core.Instances)
+comment3.text=\r\n\ This\ returns\ an\ array\ of\ doubles\ corresponding\ to\ the\ index\ of\ each\ attribute\ with\ the\r\n\ Information\ gain\ ratio\ \r\n\ attribute\ of\ the\ training\ data\ \ \r\n\r\n\ @param\ \r\n\ @return\ \ \ \ \ the\ predictions\ for\ each\ attribute\ \r\n
+comment4.params=trainingData
+comment4.target=java.util.ArrayList\ attPredictionsStr(weka.core.Instances)
+comment4.text=\r\n\ Generates\ a\ string\ with\ the\ variable\ name\ and\ its\ information\ gain\ ratio\ \ \r\n\r\n\ @param\ \ Data\ \r\n\ @return\ \ \ \ a\ string\ with\ the\ attribute\ name\ and\ the\ value\ of\ the\ prediction.\ \r\n
+numComments=5

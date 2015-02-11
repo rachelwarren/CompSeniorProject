@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LabeledData()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LabeledData\r\n
+comment1.params=year
+comment1.target=LabeledData(int)
+comment1.text=\r\n\ Constructor\ for\ class\ LabeledData\r\n\ @param\ year\ articles\ were\ written\ in\ \ \r\n
+comment2.params=str
+comment2.target=void\ buildArff(java.lang.String)
+comment2.text=\r\n\ Build\ Arff\ Files\ \r\n@param\ str\ \ a\ description\ of\ this\ file\ \r\n
+comment3.params=
+comment3.target=void\ buildTitles()
+comment3.text=\r\n\ Rebuilds\ the\ arff\ file\ with\ the\ titles\ \ \ \ \r\n
+comment4.params=
+comment4.target=void\ buildArticleData()
+comment4.text=\r\n\ Rebuilds\ the\ arff\ file\ with\ the\ article\ data\ \ \ \ \r\n
+comment5.params=
+comment5.target=void\ buildCodingData()
+comment5.text=\r\n\ build\ or\ rebuilds\ the\ arff\ data\ from\ the\ files\r\n\ @throws\ IOEception\ \r\n
+comment6.params=titlesARFF\ data\ match
+comment6.target=weka.core.Instances\ deleteUncoded(java.lang.String,\ weka.core.Instances,\ int[])
+comment6.text=\r\n\ A\ method\ that\ merges\ in\ the\ titles\ that\ we\ actually\ looked\ at\ an\ coded\ and\ removes\ the\ things\ that\ we\ need\r\nPrecodintion,\ the\ match\ variable\ is\ already\ se\ up\ (titles,\ lower\ case\ concatenated\ with\ date)\ and\ that\ that\ is\ the\ \r\nlast\ variablein\ the\ data\ set,\ data\ \r\n\ @param\ \ titlesARFF\ arff\ files\ with\ the\ titles\ (lower\ case),\ date,\ and\ if\ it\ was\ coded.\ \r\n\ @return\ \ \ \ \ the\ merged\ data\ \r\n\ \r\n\ @throws\ IOException\ \r\n\ @throws\ weka\ exception\ \r\n
+comment7.params=
+comment7.target=weka.core.Instances\ buildData()
+comment7.text=\ \r\n\ This\ method\ builds\ the\ 2008\ data\ from\ the\ arff\ files\ and\ reutrns\ the\ Instances.\ \r\n\ If\ the\ ARFF\ files\ have\ not\ been\ created\ yet,\ it\ calls\ a\ method\ which\ builds\ them\ from\ the\ paths\ of\ the\ txt\ files\ given\ in\ the\ constructor.\ \r\n\ \r\n\ Merges\ coding\ data\ with\ lexis\ data\r\n\ Removes\ uncoded\ instances\ (by\ merging\ the\ titles\ of\ all\ the\ coded\ artilces)\ \r\n\ Deletes\ duplicate\ attributes\ \r\n\ Sorts\ \r\n\ \r\n\ @return\ data\ ready\ for\ analysis.\ \r\n\ @throws\ Weka\ exception\ if\ there\ is\ an\ error\ in\ the\ data\ and\ classifier\ \r\n
+numComments=8

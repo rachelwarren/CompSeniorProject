@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TOCEntry()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TOCEntry\r\n
+comment1.params=i\ aF\ t\ d\ cs\ h
+comment1.target=TOCEntry(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TOCEntry\r\n\ @param\ id\ \r\n\ @param\ af\ \ \ \ the\ file\ the\ article\ is\ store\ in\ \r\n\ @param\ t\ \ title\ of\ the\ article\ he\ \r\n\ @param\ cs\ \ \ \ the\ class\ the\ article\ was\ assigned\ to\ \r\n\ @param\ h\ the\ path\ and\ file\ name\ of\ the\ html\ file\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Tab-delimitted\ representation\ of\ this\ entry\ \r\n\ @return\ line\ \r\n
+comment3.params=other
+comment3.target=int\ compareTo(TOCEntry)
+comment3.text=\r\n\ Used\ to\ srot\ such\ by\ article\ title\ \r\n\ @override\r\n
+numComments=4

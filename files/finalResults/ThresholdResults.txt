@@ -1,0 +1,49 @@
+File created : 2013-12-13
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+The following models are tested: 
+Stemmer: stoplist: yes, stemmer: yes, training size: random 10% , numeric word counts, default threshold 0.5
+Optimized_Recall: stopList: yes, stemmer: no, training size: random 10% numeric word counts, threshold optimized for high recall
+Optimized_Fstat: stopList: yes, stemmer: no, training size: random 10% numeric word counts, threshold optimized for high f statistic
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent, i.e. predicts the was coded variable 
+Results of Lexis Model generated : 2013-12-13
+_______________________________________
+The following models are tested: 
+Stemmer: stoplist: yes, stemmer: yes, training size: random 10% , numeric word counts, default threshold 0.5
+Optimized_Recall: stopList: yes, stemmer: no, training size: random 10% numeric word counts, threshold optimized for high recall
+Optimized_Fstat: stopList: yes, stemmer: no, training size: random 10% numeric word counts, threshold optimized for high f statistic
+
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent, i.e. predicts the was coded variable 
+modelName, Stemmer, Optimized_Recall, Optimized_Fstat
+attributes, 2003, 2003, 2003
+correctly classified, 636.0, 508.0, 641.0
+incorrectly classified, 327.0, 347.0, 322.0
+kappa score, 0.3204890564344021, 0.27362668840755355, 0.32708199510425173
+precision, 0.3887733887733888, 0.3761814744801512, 0.39285714285714285
+recall, 0.85, 0.9212962962962963, 0.85
+confusion matrix, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 449 294 |   a = 0
+  33 187 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 309 330 |   a = 0
+  17 199 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 454 289 |   a = 0
+  33 187 |   b = 1
+
+
+_________________________________________________
+

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UserInterface()
+comment0.text=\r\n\ defualt\ constructor\ Constructor\r\n
+comment1.params=message
+comment1.target=void\ makeForm(java.lang.String)
+comment1.text=\r\n\ @param\ message\ \ \ \ the\ message\ that\ appears\ at\ the\ top\ of\ the\ form\ \ \r\n\ \r\n\ @see\ the\ form\ where\ the\ user\ makes\ the\ directory\ \r\n
+comment2.params=message
+comment2.target=void\ articleForm(java.lang.String)
+comment2.text=\r\n\ Recrusively\ prints\ a\ form\ for\ the\ user\ to\ enter\ in\ an\ article\ to\ add\ to\ the\ coding\ project\ \r\n\ \r\n\ @param\ message\ that\ will\ appear\ in\ the\ top\ of\ the\ form\ \r\n\ \r\n\ @see\ the\ form\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ A\ main\ method\ that\ runs\ the\ user\ interface.\ \r\n\ Bringing\ up\ a\ form\ fo\ the\ user\ to\ enter\ the\ data.\ Allows\ users\ to\ add\ several\ articles\ to\ one\ \r\n\ classification\ project\ or\ just\ one.\ \r\n
+comment4.params=addFiles\ m\ frame\ project
+comment4.target=boolean\ addArticles(boolean,\ java.lang.String,\ javax.swing.JFrame,\ CodingProject)
+comment4.text=\r\n\ Addarticles\ adds\ html\ documetns\ to\ the\ current\ coding\ project.\ \r\n\ @param\ AddFiles\ \r\n\ @param\ m\ \r\n\ @param\ JFrame\ frame\ \r\n\ @param\ CodingProject\ project\ \r\n
+numComments=5

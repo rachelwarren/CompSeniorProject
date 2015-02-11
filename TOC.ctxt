@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TOC()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TOC\r\n
+comment1.params=f\ h
+comment1.target=TOC(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TOC\r\n\ @param\ f\ the\ filepath\ ;\r\n\ @param\ h\ a\ description\ of\ the\ table\ of\ contents\ \r\n
+comment2.params=
+comment2.target=void\ createFile()
+comment2.text=\ \r\n\ Creates\ a\ TOC\ file\ and\ writes\ not\ entries\ to\ it\ \r\n\ @throws\ UIException\ if\ the\ file\ cannot\ be\ written\ \r\n
+comment3.params=a
+comment3.target=void\ addEntry(Article)
+comment3.text=\r\n\ Adds\ and\ article\ to\ the\ table\ of\ contents.\ \r\n\ \r\n\ @param\ a\ and\ article\ object\ to\ ad\ to\ the\ table\ of\ contents\ \r\n
+comment4.params=sort
+comment4.target=void\ writeTOC(boolean)
+comment4.text=\r\n\ Writes\ all\ the\ entries\ added\ to\ this\ TOC\ to\ a\ file.\ Will\ overwrite\ the\ table\ of\ contents\ if\ it\ already\ exists\r\n\ if\ the\ boolean\ is\ true\ it\ will\ print\ the\ list\ of\ entries\ sorted\ in\ descending\ order\ according\ to\ the\ class\ \r\n\ probability.\ \r\n\ \r\n\ @param\ sort\ -weather\ the\ table\ of\ contents\ should\ sort\ on\ the\ class\ probability\ (sorts\ in\ descending\ order)\ \ \ \ \r\n\ @throws\ UIException\ if\ the\ table\ of\ contents\ has\ already\ been\ written\ OR\ if\ the\ file\ cannot\ be\ written\ to\r\n
+comment5.params=
+comment5.target=java.lang.String\ locationMessage()
+comment5.text=\r\n\ A\ message\ about\ where\ the\ table\ of\ contents\ was\ printed\ \r\n\ @return\ string\ message\ with\ the\ location\ of\ the\ table\ of\ contents\r\n
+numComments=6

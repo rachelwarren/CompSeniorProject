@@ -1,0 +1,41 @@
+File created : 2013-12-08
+Results of Lexis Model generated : 2013-12-08
+_______________________________________
+
+The following models are tested: 
+StopList_Only: stoplist: yes, stemmer: no, training size: random 10% , numeric word counts, default threshold 0.5
+
+Optimzed_Recall: stoplist: yes, stemmer: no, training size: random 10% , numeric word counts, defualt threshold 0.5
+
+Optized_Fstat: stoplist: yes, stemmer: no, training size: random 10% , numeric word counts, default threshold 0.5
+_________________________________________________
+
+The following table shows the results of a 10 fold cross validation of the model for several different pre processing strategies
+Model A: classifies articles as relevent or not relevent, predicts the was coded variable 
+modelName, StopList_Only, Optimzed_Recall, Optized_Fstat
+attributes, 2002, 2002, 2002
+correctly classified, 639.0, 519.0, 668.0
+incorrectly classified, 324.0, 365.0, 295.0
+kappa score, 0.32443586068324615, 0.2614312659085499, 0.2620651318404148
+precision, 0.3912133891213389, 0.3651376146788991, 0.3867069486404834
+recall, 0.85, 0.9128440366972477, 0.5818181818181818
+confusion matrix, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 452 291 |   a = 0
+  33 187 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 320 346 |   a = 0
+  19 199 |   b = 1
+, === Confusion Matrix ===
+
+   a   b   <-- classified as
+ 540 203 |   a = 0
+  92 128 |   b = 1
+
+
+
+_________________________________________________
+

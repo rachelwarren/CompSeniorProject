@@ -1,0 +1,507 @@
+
+1 	files/2008notRelevent/article1	Obama and McCain Have Breakout Game	2008-11-04	0	0.0	2013-12-13
+2 	files/2008notRelevent/article2	Beyond Election Day	2008-11-04	0	0.0	2013-12-13
+3 	files/2008notRelevent/article3	Minute by Minute, a Final Hectic Day on the Campaign Trail	2008-11-04	0	0.0	2013-12-13
+4 	files/2008notRelevent/article4	Obama Pays Tribute to His Grandmother After She Dies	2008-11-04	0	0.0	2013-12-13
+5 	files/2008notRelevent/article5	Your Tube	2008-11-04	0	0.0	2013-12-13
+6 	files/2008notRelevent/article6	The '08 Campaign: Sea Change for Politics as We Know It	2008-11-04	0	0.0	2013-12-13
+7 	files/2008notRelevent/article7	Nominees Pack In Visits to G.O.P.-Leaning States as Campaign Closes	2008-11-04	0	0.0	2013-12-13
+8 	files/2008notRelevent/article8	Senator mourns loss of his grandmother	2008-11-04	0	0.0	2013-12-13
+9 	files/2008notRelevent/article9	Congressional Republicans Work to Thwart Democratic Gains	2008-11-04	0	0.0	2013-12-13
+10 	files/2008notRelevent/article10	Running In Place: The Predictable Election	2008-11-04	0	0.0	2013-12-13
+11 	files/2008notRelevent/article11	Potomac Confidential: Election Special	2008-11-04	0	0.0	2013-12-13
+12 	files/2008notRelevent/article12	Analysis: Election Night 2008	2008-11-04	0	0.0	2013-12-13
+13 	files/2008notRelevent/article13	Obama, Berman Win on 'Monday Night'	2008-11-04	0	0.0	2013-12-13
+14 	files/2008notRelevent/article14	The Chat House with Michael Wilbon: Pittsburgh Fans Invade Landover; Sports News	2008-11-04	0	0.0	2013-12-13
+15 	files/2008notRelevent/article15	Station Break: Election Overdose?; Pop Culture and More	2008-11-04	0	0.0	2013-12-13
+16 	files/2008notRelevent/article16	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-11-04	0	0.0	2013-12-13
+17 	files/2008notRelevent/article17	Campaigns Focus on States Their Parties Lost in 2004	2008-11-03	0	0.0	2013-12-13
+18 	files/2008notRelevent/article18	Inside the Times, November 3, 2008	2008-11-03	0	0.0	2013-12-13
+19 	files/2008notRelevent/article19	The Soiled Envelope, Please	2008-11-03	0	0.0	2013-12-13
+20 	files/2008notRelevent/article20	Unauthorized Ad Reminds Voters About a Certain Pastor	2008-11-03	0	0.0	2013-12-13
+21 	files/2008notRelevent/article21	Fox studio hosts brake for truck ad	2008-11-03	0	0.0	2013-12-13
+22 	files/2008notRelevent/article22	Lobbyists go for congressional seats; Candidates say experiences will work in lawmaking	2008-11-03	0	0.0	2013-12-13
+23 	files/2008notRelevent/article23	Candidates seek impact up to the end; Obama pursues votes of the working class	2008-11-03	0	0.0	2013-12-13
+24 	files/2008notRelevent/article24	The Trail	2008-11-03	0	0.0	2013-12-13
+25 	files/2008notRelevent/article25	A Positively Negative Home Stretch; McCain, Obama Break Tradition By Staying On the Attack	2008-11-03	0	0.0	2013-12-13
+26 	files/2008notRelevent/article26	It's Well Past 3 a.m. Do You Remember the Election's Best Ads?	2008-11-03	0	0.0	2013-12-13
+27 	files/2008notRelevent/article27	Cheney's Parting Gift	2008-11-03	0	0.0	2013-12-13
+28 	files/2008notRelevent/article28	Critiquing the Press	2008-11-03	0	0.0	2013-12-13
+29 	files/2008notRelevent/article29	Vote For ( )	2008-11-02	0	0.0	2013-12-13
+30 	files/2008notRelevent/article30	Black Turnout May Hold Key	2008-11-02	0	0.0	2013-12-13
+31 	files/2008notRelevent/article31	In Florida, Organizing and Fighting for Every Last Vote	2008-11-02	0	0.0	2013-12-13
+32 	files/2008notRelevent/article32	First Real Race In a Generation	2008-11-02	0	0.0	2013-12-13
+33 	files/2008notRelevent/article33	Tuesday Night's Party Lines	2008-11-02	0	0.0	2013-12-13
+34 	files/2008notRelevent/article34	Disclosure About Obama's Aunt May Have Broken Federal Law	2008-11-02	0	0.0	2013-12-13
+35 	files/2008notRelevent/article35	Colorado (9 electoral votes)	2008-11-02	0	0.0	2013-12-13
+36 	files/2008notRelevent/article36	Discord on Economies In a World Of Trouble; Conflicts Emerge as Nations Seek Solutions	2008-11-02	0	0.0	2013-12-13
+37 	files/2008notRelevent/article37	Don't Blame the Bradley Effect	2008-11-02	0	0.0	2013-12-13
+38 	files/2008notRelevent/article38	Opposite Sides of the Fence but Equal Lawn Time	2008-11-02	0	0.0	2013-12-13
+39 	files/2008notRelevent/article39	Will She Ever Get There?	2008-11-02	0	0.0	2013-12-13
+40 	files/2008notRelevent/article40	Arizona (10 electoral votes)	2008-11-02	0	0.0	2013-12-13
+41 	files/2008notRelevent/article41	The Post-Racial Election	2008-11-02	0	0.0	2013-12-13
+42 	files/2008notRelevent/article42	GOP Slide in Mich. Hews to Economy; Democrats Say They Expect to Gain	2008-11-01	0	0.0	2013-12-13
+43 	files/2008notRelevent/article43	Gubernatorial Race In Wash. State Elicits That Deja Vu Feeling; In Rematch, Rivals Again Tied in Polls	2008-11-01	0	0.0	2013-12-13
+44 	files/2008notRelevent/article44	True Believers In McCain Flock to Pa.	2008-11-01	0	0.0	2013-12-13
+45 	files/2008notRelevent/article45	Battling on the Other Side's Turf; Obama Presence in Rural Va. Symbolizes Effort to Compete Across the Map	2008-11-01	0	0.0	2013-12-13
+46 	files/2008notRelevent/article46	NAMES & FACES	2008-11-01	0	0.0	2013-12-13
+47 	files/2008notRelevent/article47	Hitting the Backroads, And Having Less to Say	2008-10-31	0	0.0	2013-12-13
+48 	files/2008notRelevent/article48	For Incomes Below $100,000, a Better Tax Break in Obama's Plan	2008-10-31	0	0.0	2013-12-13
+49 	files/2008notRelevent/article49	With Ambitious Campaign, Obama Is Both Big Spender and Penny Pincher	2008-10-31	0	0.0	2013-12-13
+50 	files/2008notRelevent/article50	GOP takes new approach in ads for Senate contests; Ads seem to suggest that Democrats will win many seats	2008-10-31	0	0.0	2013-12-13
+51 	files/2008notRelevent/article51	Montana sharply split over candidates' energy policies	2008-10-31	0	0.0	2013-12-13
+52 	files/2008notRelevent/article52	Kansas Congresswoman Isn't Capitalizing on Her (D)	2008-10-31	0	0.0	2013-12-13
+53 	files/2008notRelevent/article53	In Tightfisted Turn, Economy Contracts; Drop in Spending Is Drag on Growth	2008-10-31	0	0.0	2013-12-13
+54 	files/2008notRelevent/article54	Referendum on Trickle-Down	2008-10-31	0	0.0	2013-12-13
+55 	files/2008notRelevent/article55	The Debates: No Drama but a Dramatic Effect	2008-10-31	0	0.0	2013-12-13
+56 	files/2008notRelevent/article56	In Final Stretch, McCain to Pour Money Into TV Ads	2008-10-31	0	0.0	2013-12-13
+57 	files/2008notRelevent/article57	God, Country and McCain; At Liberty University, Republican Students Campaign Hard, Fearing a New Era of Liberal Activism if Obama Prevails	2008-10-31	0	0.0	2013-12-13
+58 	files/2008notRelevent/article58	An 'Idiot Wind'; John McCain's latest attempt to link Barack Obama to extremism	2008-10-31	0	0.0	2013-12-13
+59 	files/2008notRelevent/article59	Election 2008: What to Expect at the Polls	2008-10-31	0	0.0	2013-12-13
+60 	files/2008notRelevent/article60	Bush and Cheney's Last Shot	2008-10-31	0	0.0	2013-12-13
+61 	files/2008notRelevent/article61	Election 2008 Key States: Minnesota	2008-10-31	0	0.0	2013-12-13
+62 	files/2008notRelevent/article62	Breaking Ranks	2008-10-31	0	0.0	2013-12-13
+63 	files/2008notRelevent/article63	Breaking Ranks	2008-10-31	0	0.0	2013-12-13
+64 	files/2008notRelevent/article64	The Last Week Quiz	2008-10-30	0	0.0	2013-12-13
+65 	files/2008notRelevent/article65	Now Playing	2008-10-30	0	0.0	2013-12-13
+66 	files/2008notRelevent/article66	At Rallies of Faithful, Contrasts in Red and Blue	2008-10-30	0	0.0	2013-12-13
+67 	files/2008notRelevent/article67	The Day	2008-10-30	0	0.0	2013-12-13
+68 	files/2008notRelevent/article68	Following the Script: Obama, McCain and 'The West Wing'	2008-10-30	0	0.0	2013-12-13
+69 	files/2008notRelevent/article69	An Infomercial, Big, Glossy and Almost Unavoidable	2008-10-30	0	0.0	2013-12-13
+70 	files/2008notRelevent/article70	McCain works to gain Florida; Polls have him trailing Obama by single digits	2008-10-30	0	0.0	2013-12-13
+71 	files/2008notRelevent/article71	Obama blankets TV with ad; Times Clinton appearance for 11 p.m. news	2008-10-30	0	0.0	2013-12-13
+72 	files/2008notRelevent/article72	Obama blankets TV with ad; Times Clinton appearance for 11 p.m. news	2008-10-30	0	0.0	2013-12-13
+73 	files/2008notRelevent/article73	In Ohio, Wary Eyes On Election Process; Fears of Fraud and Blocked Votes	2008-10-30	0	0.0	2013-12-13
+74 	files/2008notRelevent/article74	Spanish Political Ads' Multiple Translations; Outreach Can Send a Mixed Message	2008-10-30	0	0.0	2013-12-13
+75 	files/2008notRelevent/article75	Obama Airs 30-Minute Spot, Releases Anti-Palin Ad	2008-10-30	0	0.0	2013-12-13
+76 	files/2008notRelevent/article76	ObamaVision: An Appeal to the Masses	2008-10-30	0	0.0	2013-12-13
+77 	files/2008notRelevent/article77	Both Camps Underscore Choices	2008-10-30	0	0.0	2013-12-13
+78 	files/2008notRelevent/article78	He's Everywhere: Obama Wraps Small-Screen Barrage With 'Daily Show' Appearance	2008-10-30	0	0.0	2013-12-13
+79 	files/2008notRelevent/article79	Election 2008: Both Sides With Tucker Carlson and Ana Marie Cox	2008-10-30	0	0.0	2013-12-13
+80 	files/2008notRelevent/article80	Election 2008: Purple State Videos	2008-10-30	0	0.0	2013-12-13
+81 	files/2008notRelevent/article81	McCain Delivers Remarks in Defiance, Ohio	2008-10-30	0	0.0	2013-12-13
+82 	files/2008notRelevent/article82	Potomac Confidential; Washington's Hour of Talk Power	2008-10-30	0	0.0	2013-12-13
+83 	files/2008notRelevent/article83	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-30	0	0.0	2013-12-13
+84 	files/2008notRelevent/article84	The Big Show	2008-10-30	0	0.0	2013-12-13
+85 	files/2008notRelevent/article85	The Big Show	2008-10-30	0	0.0	2013-12-13
+86 	files/2008notRelevent/article86	Closing Arguments	2008-10-29	0	0.0	2013-12-13
+87 	files/2008notRelevent/article87	APPEALS COURTS PUSHED TO RIGHT BY BUSH CHOICES	2008-10-29	0	0.0	2013-12-13
+88 	files/2008notRelevent/article88	With Time Running Short, Campaigns Engage in a Noisy Air War	2008-10-29	0	0.0	2013-12-13
+89 	files/2008notRelevent/article89	Obama Infomercial, a Closing Argument to the Everyman	2008-10-29	0	0.0	2013-12-13
+90 	files/2008notRelevent/article90	Californians go to 'war' over proposed gay-marriage ban	2008-10-29	0	0.0	2013-12-13
+91 	files/2008notRelevent/article91	A campaign of living history; The 2008 presidential contest will go down as one of the most interesting, and most important, races of at least the past half-century. Why? Major crises, compelling debates and strong -- indeed, historic -- candidates.	2008-10-29	0	0.0	2013-12-13
+92 	files/2008notRelevent/article92	The Reliable Source	2008-10-29	0	0.0	2013-12-13
+93 	files/2008notRelevent/article93	Obama's Ad 'Roadblock' Gets Traction	2008-10-29	0	0.0	2013-12-13
+94 	files/2008notRelevent/article94	How They Would Change Health Care; McCain's Proposal for High-Risk Coverage Is Similar to a Program in Minnesota	2008-10-29	0	0.0	2013-12-13
+95 	files/2008notRelevent/article95	Accuracy Of Polls a Question In Itself; Skeptics Challenge Assumptions Made	2008-10-29	0	0.0	2013-12-13
+96 	files/2008notRelevent/article96	Election 2008 Key States: Ohio	2008-10-29	0	0.0	2013-12-13
+97 	files/2008notRelevent/article97	McCain Delivers Remarks in Miami, Fla.	2008-10-29	0	0.0	2013-12-13
+98 	files/2008notRelevent/article98	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-29	0	0.0	2013-12-13
+99 	files/2008notRelevent/article99	Putting Faith in Obama	2008-10-28	0	0.0	2013-12-13
+100 	files/2008notRelevent/article100	New to Campaigning, but No Longer a Novice	2008-10-28	0	0.0	2013-12-13
+101 	files/2008notRelevent/article101	McCain, que paso?; The GOP nominee is paying for his party's sins -- specifically the mishandling of immigration reform. Democrats, though also guilty, have escaped blame.	2008-10-28	0	0.0	2013-12-13
+102 	files/2008notRelevent/article102	Obama ads overwhelm TV presence of McCain; His 3 half-hour spots among $230M of buys	2008-10-28	0	0.0	2013-12-13
+103 	files/2008notRelevent/article103	GOP Senator Banks on Obama in Oregon Race; Ads Using Illinois Democrat Play to Tradition of Centrism	2008-10-28	0	0.0	2013-12-13
+104 	files/2008notRelevent/article104	The Trail	2008-10-28	0	0.0	2013-12-13
+105 	files/2008notRelevent/article105	ABC Jumps Too Late On Obama's 'Buy'	2008-10-28	0	0.0	2013-12-13
+106 	files/2008notRelevent/article106	Station Break: Campaign Ads, McCain, Obama, Palin, Biden, Brook Shields Commercials, Joe the Plumber, Christian Science Monitor; Pop Culture and More	2008-10-28	0	0.0	2013-12-13
+107 	files/2008notRelevent/article107	Chatological Humor: Gramatically Correct; aka Tuesdays With Moron	2008-10-28	0	0.0	2013-12-13
+108 	files/2008notRelevent/article108	McCain Delivers Remarks at a Hershey, Pa. Rally	2008-10-28	0	0.0	2013-12-13
+109 	files/2008notRelevent/article109	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-28	0	0.0	2013-12-13
+110 	files/2008notRelevent/article110	The Day	2008-10-27	0	0.0	2013-12-13
+111 	files/2008notRelevent/article111	Democrats in Steel Country See Skin Color, and Beyond It	2008-10-27	0	0.0	2013-12-13
+112 	files/2008notRelevent/article112	Campaign Gravy Train At an End	2008-10-27	0	0.0	2013-12-13
+113 	files/2008notRelevent/article113	Voter 'anger' has Dems set for big gains in Congress; GOP incumbents at risk as electoral ground shifts	2008-10-27	0	0.0	2013-12-13
+114 	files/2008notRelevent/article114	Deep divide splits Washington state; Voters happy to hop parties as they move down ballot	2008-10-27	0	0.0	2013-12-13
+115 	files/2008notRelevent/article115	Voters blasted by variety of radio ads; Presidential contest floods airwaves	2008-10-27	0	0.0	2013-12-13
+116 	files/2008notRelevent/article116	For GOP, Some Good News at Last -- on the Gubernatorial Front	2008-10-27	0	0.0	2013-12-13
+117 	files/2008notRelevent/article117	Outlook: Obama and the End of Fundraising Limits; Democratic Campaigns Actions Show Campaign Finance Reform Is a Partisan Tool, Not Good Policy	2008-10-27	0	0.0	2013-12-13
+118 	files/2008notRelevent/article118	Election 2008 Key States: Virginia	2008-10-27	0	0.0	2013-12-13
+119 	files/2008notRelevent/article119	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-27	0	0.0	2013-12-13
+120 	files/2008notRelevent/article120	The Making (and Remaking and Remaking) of the Candidate	2008-10-26	0	0.0	2013-12-13
+121 	files/2008notRelevent/article121	No Ordinary Woman	2008-10-26	0	0.0	2013-12-13
+122 	files/2008notRelevent/article122	The Invisible Renter	2008-10-26	0	0.0	2013-12-13
+123 	files/2008notRelevent/article123	Death Knell Tolls For More Businesses	2008-10-26	0	0.0	2013-12-13
+124 	files/2008notRelevent/article124	Mailed Ads Have Become Mostly Negative, Experts Say	2008-10-26	0	0.0	2013-12-13
+125 	files/2008notRelevent/article125	Obama's Huge Haul Should End This Fight	2008-10-26	0	0.0	2013-12-13
+126 	files/2008notRelevent/article126	A New England Brawl	2008-10-26	0	0.0	2013-12-13
+127 	files/2008notRelevent/article127	Comedian Becomes Serious Contender; Democrat Franken Leads Senate Race in Minn.	2008-10-25	0	0.0	2013-12-13
+128 	files/2008notRelevent/article128	McCain Blasts Rival On Stump in Colorado; Obama Is Ahead in Polls in GOP State	2008-10-25	0	0.0	2013-12-13
+129 	files/2008notRelevent/article129	Obama Has Burst in Ad Spending in Early October	2008-10-25	0	0.0	2013-12-13
+130 	files/2008notRelevent/article130	Polls Show Obama Gaining Among Bush Voters	2008-10-24	0	0.0	2013-12-13
+131 	files/2008notRelevent/article131	Independent groups spend millions bypassing TV, radio; Some say phone calls, canvassing, mail more effective	2008-10-24	0	0.0	2013-12-13
+132 	files/2008notRelevent/article132	McCain's Pitch to Average Joes Focuses on Taxes	2008-10-24	0	0.0	2013-12-13
+133 	files/2008notRelevent/article133	Ideology Aside, This Has Been the Year of the Woman	2008-10-24	0	0.0	2013-12-13
+134 	files/2008notRelevent/article134	As an Issue, Taxes Favor Obama; Polls Lean Toward Democrat on a Traditional GOP Strength	2008-10-24	0	0.0	2013-12-13
+135 	files/2008notRelevent/article135	McCain for President	2008-10-24	0	0.0	2013-12-13
+136 	files/2008notRelevent/article136	Barracuda Bandwagon	2008-10-24	0	0.0	2013-12-13
+137 	files/2008notRelevent/article137	Spending $5.3B on political races looks scary, but it could be worse; The likely tally for Halloween: $6B	2008-10-23	0	0.0	2013-12-13
+138 	files/2008notRelevent/article138	How to look like 150,000 bucks; Palin's spree turns heads left and right	2008-10-23	0	0.0	2013-12-13
+139 	files/2008notRelevent/article139	N.M. teams realize every vote counts; State sees flurry of volunteers working to mobilize supporters	2008-10-23	0	0.0	2013-12-13
+140 	files/2008notRelevent/article140	Jock the Vote: NBA Players Raise Their Voices; Defying Political Convention, Some Star Athletes Choose Sides in Presidential Race	2008-10-23	0	0.0	2013-12-13
+141 	files/2008notRelevent/article141	In Ads, GOP Stresses Obama's Ties to Chicago Developer; But Nominee's Relationship With Rezko Appears to Be Having Little Impact on Voters, Polls Find	2008-10-23	0	0.0	2013-12-13
+142 	files/2008notRelevent/article142	Celebritology Live: Sarah Palin Must Be a Celeb, Cuz We Can't Stop Talking About Her; You've Been Served... a Heaping Plate of Gossip	2008-10-23	0	0.0	2013-12-13
+143 	files/2008notRelevent/article143	Washington Week With Gwen Ifill	2008-10-23	0	0.0	2013-12-13
+144 	files/2008notRelevent/article144	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-23	0	0.0	2013-12-13
+145 	files/2008notRelevent/article145	On Shopping and Patriotism	2008-10-23	0	0.0	2013-12-13
+146 	files/2008notRelevent/article146	On Shopping and Patriotism	2008-10-23	0	0.0	2013-12-13
+147 	files/2008notRelevent/article147	Inside the Times, October 22, 2008	2008-10-22	0	0.0	2013-12-13
+148 	files/2008notRelevent/article148	After a Year on the Road, Obama Is Changing His Tempo	2008-10-22	0	0.0	2013-12-13
+149 	files/2008notRelevent/article149	Democrats or Republicans, Latinas Are Swaying the Vote	2008-10-22	0	0.0	2013-12-13
+150 	files/2008notRelevent/article150	Obama's Iffy Numbers On McCain Health Plan	2008-10-22	0	0.0	2013-12-13
+151 	files/2008notRelevent/article151	The 'Socialist' Scare	2008-10-22	0	0.0	2013-12-13
+152 	files/2008notRelevent/article152	Government Contracting and Small Businesses	2008-10-22	0	0.0	2013-12-13
+153 	files/2008notRelevent/article153	The Reliable Source: Palin Wardrobe, Tina Fey, Jessica Cutler, The Kennedys	2008-10-22	0	0.0	2013-12-13
+154 	files/2008notRelevent/article154	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-22	0	0.0	2013-12-13
+155 	files/2008notRelevent/article155	The Pulse of the Pol	2008-10-22	0	0.0	2013-12-13
+156 	files/2008notRelevent/article156	U.S. Is Said To Be Urging New Mergers In Banking	2008-10-21	0	0.0	2013-12-13
+157 	files/2008notRelevent/article157	Copyright and Politics Don't Mix	2008-10-21	0	0.0	2013-12-13
+158 	files/2008notRelevent/article158	Joe the Marketer Responds to a Category 5 Hurricane	2008-10-21	0	0.0	2013-12-13
+159 	files/2008notRelevent/article159	McCain camp vows to beat funding mismatch	2008-10-21	0	0.0	2013-12-13
+160 	files/2008notRelevent/article160	McCain Emphasizes Distance From Bush; Criticism of Administration Stepped Up	2008-10-21	0	0.0	2013-12-13
+161 	files/2008notRelevent/article161	Station Break: Talkng Heads, Presidential Debates, Palin, Actors and Age Differences; Pop Culture and More	2008-10-21	0	0.0	2013-12-13
+162 	files/2008notRelevent/article162	Chatological Humor: In Which Gene Reveals Himself to be a Word Snob of the First Order (UPDATED 10.22.08); aka Tuesdays With Moron	2008-10-21	0	0.0	2013-12-13
+163 	files/2008notRelevent/article163	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-21	0	0.0	2013-12-13
+164 	files/2008notRelevent/article164	As Fuel Prices Fall, Will Push For Alternatives Lose Steam?	2008-10-20	0	0.0	2013-12-13
+165 	files/2008notRelevent/article165	The Democrats' Daunting Digits	2008-10-20	0	0.0	2013-12-13
+166 	files/2008notRelevent/article166	Obama Endorsed By Colin Powell; Democrat Wins Praise From Prominent Republican, Announces Record $150 Million Fundraising Month	2008-10-20	0	0.0	2013-12-13
+167 	files/2008notRelevent/article167	Obama's September Haul Provides Huge Advertising Edge; Amount More Than Doubles Old Record	2008-10-20	0	0.0	2013-12-13
+168 	files/2008notRelevent/article168	Pet Songs; Celebrating Animal Companions Through Music and Video	2008-10-20	0	0.0	2013-12-13
+169 	files/2008notRelevent/article169	Critiquing the Press	2008-10-20	0	0.0	2013-12-13
+170 	files/2008notRelevent/article170	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-20	0	0.0	2013-12-13
+171 	files/2008notRelevent/article171	WILL GUN-TOTTING, CHURCHGOING WHITE GUYS PULL THE LEVER FOR OBAMA?	2008-10-19	0	0.0	2013-12-13
+172 	files/2008notRelevent/article172	He Just Can't Quit W	2008-10-19	0	0.0	2013-12-13
+173 	files/2008notRelevent/article173	Proof Pudding	2008-10-19	0	0.0	2013-12-13
+174 	files/2008notRelevent/article174	A Hale Chief? Better Check Up on That.	2008-10-19	0	0.0	2013-12-13
+175 	files/2008notRelevent/article175	Economic Downturn Sidelines Donors to '527' Groups	2008-10-19	0	0.0	2013-12-13
+176 	files/2008notRelevent/article176	Last-Minute Mischief	2008-10-18	0	0.0	2013-12-13
+177 	files/2008notRelevent/article177	NEARING RECORD, OBAMA AD EFFORT SWAMPS McCAIN	2008-10-18	0	0.0	2013-12-13
+178 	files/2008notRelevent/article178	Is Anybody Happy?	2008-10-18	0	0.0	2013-12-13
+179 	files/2008notRelevent/article179	Campaigns Tangle Over Health Care	2008-10-18	0	0.0	2013-12-13
+180 	files/2008notRelevent/article180	Questions Linger About McCain's Prognosis After Skin Cancer	2008-10-18	0	0.0	2013-12-13
+181 	files/2008notRelevent/article181	Bush Defends Rescue Plan; Government Cash Infusion Was a 'Last Resort,' He Says	2008-10-18	0	0.0	2013-12-13
+182 	files/2008notRelevent/article182	ON NYTIMES.COM	2008-10-17	0	0.0	2013-12-13
+183 	files/2008notRelevent/article183	Polls Cause Campaigns to Change Their Itineraries	2008-10-17	0	0.0	2013-12-13
+184 	files/2008notRelevent/article184	Rivals' Visions Differ on Unleashing Innovation	2008-10-17	0	0.0	2013-12-13
+185 	files/2008notRelevent/article185	Debates Over, Candidates Begin Final Sprint	2008-10-17	0	0.0	2013-12-13
+186 	files/2008notRelevent/article186	Spare Times: For Children	2008-10-17	0	0.0	2013-12-13
+187 	files/2008notRelevent/article187	'Joe the Plumber' caught in post-debate glare; Obama tax plan would likely help Ohioan	2008-10-17	0	0.0	2013-12-13
+188 	files/2008notRelevent/article188	Last Debate Is Not a Winner, In the Ratings	2008-10-17	0	0.0	2013-12-13
+189 	files/2008notRelevent/article189	As McCain's Road Gets Steeper, Obama Warns of Overconfidence	2008-10-17	0	0.0	2013-12-13
+190 	files/2008notRelevent/article190	Where Prescription Drugs and Doctor's Appointments Don't Mix; __	2008-10-17	0	0.0	2013-12-13
+191 	files/2008notRelevent/article191	Who's Playing the Race Card?	2008-10-17	0	0.0	2013-12-13
+192 	files/2008notRelevent/article192	'We Tried Not to Cross the Line of Truth'; 'We Tried Not to Cross the Line of Truth'	2008-10-17	0	0.0	2013-12-13
+193 	files/2008notRelevent/article193	After Debate, Glare Of Media Hits Joe; Plumbers Union, Tax Collectors Notice	2008-10-17	0	0.0	2013-12-13
+194 	files/2008notRelevent/article194	Two Answers to the Question 'More of the Same?'	2008-10-17	0	0.0	2013-12-13
+195 	files/2008notRelevent/article195	The Financial Crisis And You: Effects on the Election	2008-10-17	0	0.0	2013-12-13
+196 	files/2008notRelevent/article196	A Leaky Argument	2008-10-17	0	0.0	2013-12-13
+197 	files/2008toCode/article197	G.O.P. Boos Obama for Ad Buy	2008-10-16	1	0.0	2013-12-13
+198 	files/2008notRelevent/article198	Final fact check: Claims re-examined; Rivals' third round covers tax cuts, Iraq	2008-10-16	0	0.0	2013-12-13
+199 	files/2008notRelevent/article199	Economy again is front and center; Candidates spar over rescue plans, ad tactics	2008-10-16	0	0.0	2013-12-13
+200 	files/2008notRelevent/article200	'Latinos '08': A Split Ticket; PBS Documentary Questions Assumptions About Voters	2008-10-16	0	0.0	2013-12-13
+201 	files/2008notRelevent/article201	Both Campaigns Distorting Facts on Money Matters	2008-10-16	0	0.0	2013-12-13
+202 	files/2008notRelevent/article202	Candidates Make A Name for This Guy Joe	2008-10-16	0	0.0	2013-12-13
+203 	files/2008notRelevent/article203	At Height of Election Season, a Full Haul of Blog Items	2008-10-16	0	0.0	2013-12-13
+204 	files/2008notRelevent/article204	Obama Turns to State's Leading Democrats; Campaign Wants Kaine, Warner, Webb to Appear in Ads to Capitalize on Popularity	2008-10-16	0	0.0	2013-12-13
+205 	files/2008notRelevent/article205	Aggressive Underdog vs. Cool Counterpuncher	2008-10-16	0	0.0	2013-12-13
+206 	files/2008notRelevent/article206	In Targeting Online Ads, Campaigns Ask: Who's Searching for What?	2008-10-16	0	0.0	2013-12-13
+207 	files/2008notRelevent/article207	Joe Again? Say It Ain't So.	2008-10-16	0	0.0	2013-12-13
+208 	files/2008notRelevent/article208	The Financial Crisis And You: Impact on Your Investments	2008-10-16	0	0.0	2013-12-13
+209 	files/2008notRelevent/article209	Potomac Confidential; Washington's Hour of Talk Power	2008-10-16	0	0.0	2013-12-13
+210 	files/2008notRelevent/article210	'Not President Bush'	2008-10-16	0	0.0	2013-12-13
+211 	files/2008notRelevent/article211	An Oregon Republican Reaches for Coattails -- Obama's	2008-10-15	0	0.0	2013-12-13
+212 	files/2008notRelevent/article212	The Trail	2008-10-15	0	0.0	2013-12-13
+213 	files/2008notRelevent/article213	With Huge Money Advantage, Obama Ramps Up Ads	2008-10-15	0	0.0	2013-12-13
+214 	files/2008notRelevent/article214	Analysis: Final Presidential Debate	2008-10-15	0	0.0	2013-12-13
+215 	files/2008notRelevent/article215	Real Life Politics	2008-10-15	0	0.0	2013-12-13
+216 	files/2008notRelevent/article216	Torture's Smoking Guns	2008-10-15	0	0.0	2013-12-13
+217 	files/2008notRelevent/article217	Pearlstein: Financial Meltdown	2008-10-15	0	0.0	2013-12-13
+218 	files/2008notRelevent/article218	Big Government Ahead	2008-10-14	0	0.0	2013-12-13
+219 	files/2008notRelevent/article219	Both Sides of the Aisle See More Regulation, and Not Just of Banks	2008-10-14	0	0.0	2013-12-13
+220 	files/2008notRelevent/article220	Obama Adds $60 Billion to Economic Plan; McCain Expected to Unveil Proposals Today	2008-10-14	0	0.0	2013-12-13
+221 	files/2008notRelevent/article221	Time to Be Outward Bound; __	2008-10-14	0	0.0	2013-12-13
+222 	files/2008notRelevent/article222	McCain Attack Ads Called Inevitable -- And Ineffective	2008-10-14	0	0.0	2013-12-13
+223 	files/2008notRelevent/article223	GOP Officials Assail Community Group; McCain Campaign Accuses ACORN of Voter Fraud, Highlights Ties to Obama	2008-10-14	0	0.0	2013-12-13
+224 	files/2008notRelevent/article224	Station Break; Pop Culture and More	2008-10-14	0	0.0	2013-12-13
+225 	files/2008notRelevent/article225	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-14	0	0.0	2013-12-13
+226 	files/2008notRelevent/article226	Writing Memoir, McCain Found a Narrative for Life	2008-10-13	0	0.0	2013-12-13
+227 	files/2008notRelevent/article227	On the Bus, But With No Reason to Go?	2008-10-13	0	0.0	2013-12-13
+228 	files/2008notRelevent/article228	Clintons Join Biden to Campaign for Obama in Scranton; Democratic All-Stars Take Nominee's Case to Blue-Collar Area That Spawned His Running Mate but Voted for His Primary Foe	2008-10-13	0	0.0	2013-12-13
+229 	files/2008notRelevent/article229	Down, Down, Down East for the GOP?	2008-10-13	0	0.0	2013-12-13
+230 	files/2008notRelevent/article230	Stuck In the Muck; Mudslinging Isn't New. Here's the Messy Truth.	2008-10-13	0	0.0	2013-12-13
+231 	files/2008notRelevent/article231	What McCain Hasn't Tried	2008-10-13	0	0.0	2013-12-13
+232 	files/2008notRelevent/article232	The World Vote; Barack Obama is almost universally favored over John McCain outside the United States. Should that matter to Americans?	2008-10-13	0	0.0	2013-12-13
+233 	files/2008notRelevent/article233	Election 2008: Ground Games; Obama Has Bodies to Win Get-Out-the-Vote Aspect of Race	2008-10-13	0	0.0	2013-12-13
+234 	files/2008notRelevent/article234	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-13	0	0.0	2013-12-13
+235 	files/2008notRelevent/article235	The Bus to Nowhere	2008-10-13	0	0.0	2013-12-13
+236 	files/2008notRelevent/article236	Are We Rome? Tu Betchus!	2008-10-12	0	0.0	2013-12-13
+237 	files/2008notRelevent/article237	Out Of Panic, Self-Reliance	2008-10-12	0	0.0	2013-12-13
+238 	files/2008notRelevent/article238	The Terrorist Barack Hussein Obama	2008-10-12	0	0.0	2013-12-13
+239 	files/2008notRelevent/article239	In Tight House Race, Bush Record Is Battleground	2008-10-12	0	0.0	2013-12-13
+240 	files/2008notRelevent/article240	McCain Campaign Sustains the Focus on Obama's Links to a 1960s Radical	2008-10-12	0	0.0	2013-12-13
+241 	files/2008notRelevent/article241	Those Negative Ads Are a Positive Thing	2008-10-12	0	0.0	2013-12-13
+242 	files/2008notRelevent/article242	Candidate Banners Can Leave Clients, Businesses Bruised	2008-10-12	0	0.0	2013-12-13
+243 	files/2008notRelevent/article243	McCain Draws Line on Attacks as Crowds Cry 'Fight Back'	2008-10-11	0	0.0	2013-12-13
+244 	files/2008notRelevent/article244	Attacking Obama's Associations	2008-10-11	0	0.0	2013-12-13
+245 	files/2008notRelevent/article245	Couric Rebounds With Web And Palin	2008-10-11	0	0.0	2013-12-13
+246 	files/2008notRelevent/article246	Inside The Times: October 11, 2008	2008-10-11	0	0.0	2013-12-13
+247 	files/2008notRelevent/article247	Will McCain Do Anything to Win?	2008-10-11	0	0.0	2013-12-13
+248 	files/2008notRelevent/article248	McCain Mum on Former Pastor; Some in GOP Frustrated at Omission in Attacks on Obama	2008-10-11	0	0.0	2013-12-13
+249 	files/2008notRelevent/article249	McCain Moves to Soften the Tone at Rallies, if Not in Ads	2008-10-11	0	0.0	2013-12-13
+250 	files/2008notRelevent/article250	Obama Buys a Half-Hour Block From Networks; 'SNL's' Fauxbama Draws 11 Million Viewers	2008-10-11	0	0.0	2013-12-13
+251 	files/2008notRelevent/article251	Inside The Times	2008-10-10	0	0.0	2013-12-13
+252 	files/2008notRelevent/article252	Lawmakers Weigh Plan For Stimulus	2008-10-10	0	0.0	2013-12-13
+253 	files/2008notRelevent/article253	Obama, Purse Swelling, Plans Half-Hour TV Ad	2008-10-10	0	0.0	2013-12-13
+254 	files/2008toCode/article254	Obama Attacks McCain's Mortgage Plan	2008-10-10	1	0.0	2013-12-13
+255 	files/2008toCode/article255	Obama ready for prime time in long ads; Nominee plans 30-minute spots on CBS, NBC and Fox	2008-10-10	1	0.0	2013-12-13
+256 	files/2008notRelevent/article256	Candidates Spar Over McCain Plan for Loans; Proposal Introduced In Second Debate	2008-10-10	0	0.0	2013-12-13
+257 	files/2008notRelevent/article257	Obama & Friends: Judge Not?	2008-10-10	0	0.0	2013-12-13
+258 	files/2008toCode/article258	Obama Hits McCain on Mortgages	2008-10-10	1	0.0	2013-12-13
+259 	files/2008toCode/article259	The Trail	2008-10-10	1	0.0	2013-12-13
+260 	files/2008notRelevent/article260	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-10	0	0.0	2013-12-13
+261 	files/2008notRelevent/article261	INSIDE THE TIMES: October 9, 2008	2008-10-09	0	0.0	2013-12-13
+262 	files/2008notRelevent/article262	U.S. MAY TAKE OWNERSHIP STAKE IN BANKS TO EASE CREDIT CRISIS	2008-10-09	0	0.0	2013-12-13
+263 	files/2008notRelevent/article263	G.O.P. Facing Tougher Battle For Congress	2008-10-09	0	0.0	2013-12-13
+264 	files/2008toCode/article264	Candidates continue debate on relief for mortgage holders	2008-10-09	1	0.0	2013-12-13
+265 	files/2008notRelevent/article265	Need a tech-savvy president?; As a practical matter, no. But as a political matter ...	2008-10-09	0	0.0	2013-12-13
+266 	files/2008notRelevent/article266	10 Steps Through Virginia to the White House	2008-10-09	0	0.0	2013-12-13
+267 	files/2008notRelevent/article267	MoveOn Grows Up; What Started Online in '98 Has Transformed Liberal Politicking	2008-10-09	0	0.0	2013-12-13
+268 	files/2008notRelevent/article268	Slipping Away?	2008-10-09	0	0.0	2013-12-13
+269 	files/2008notRelevent/article269	Slipping Away?	2008-10-09	0	0.0	2013-12-13
+270 	files/2008notRelevent/article270	INSIDE THE TIMES: October 8, 2008	2008-10-08	0	0.0	2013-12-13
+271 	files/2008notRelevent/article271	Politics of Attack	2008-10-08	0	0.0	2013-12-13
+272 	files/2008notRelevent/article272	Mud Pies For 'That One'	2008-10-08	0	0.0	2013-12-13
+273 	files/2008notRelevent/article273	Obama Flexing Financial Muscle With TV Spending	2008-10-08	0	0.0	2013-12-13
+274 	files/2008notRelevent/article274	Both Candidates Misleading TV Viewers With Attacks	2008-10-08	0	0.0	2013-12-13
+275 	files/2008notRelevent/article275	Election 2008: Both Sides With Tucker Carlson and Ana Marie Cox	2008-10-08	0	0.0	2013-12-13
+276 	files/2008toCode/article276	Asked, Millions Reply	2008-10-07	1	0.0	2013-12-13
+277 	files/2008notRelevent/article277	INSIDE THE TIMES: October 7, 2008	2008-10-07	0	0.0	2013-12-13
+278 	files/2008notRelevent/article278	Dangerous Territory; As the campaigns plunge into the mud, how should voters evaluate their claims?	2008-10-07	0	0.0	2013-12-13
+279 	files/2008toCode/article279	McCain Spot Distorts Obama Comment About Military	2008-10-07	1	0.0	2013-12-13
+280 	files/2008notRelevent/article280	Station Break; Pop Culture and More	2008-10-07	0	0.0	2013-12-13
+281 	files/2008notRelevent/article281	Chatological Humor: Dogs, Palin, Mencken and a Little Advice for the Lovelorn (UPDATED 10.8.08); aka Tuesdays With Moron	2008-10-07	0	0.0	2013-12-13
+282 	files/2008notRelevent/article282	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-07	0	0.0	2013-12-13
+283 	files/2008notRelevent/article283	Seeking to Shift Attention to Judicial Nominees	2008-10-06	0	0.0	2013-12-13
+284 	files/2008notRelevent/article284	Obama's tie to '60s radical fuels attacks; Palin remarks revive controversy as polls show gains for Dem	2008-10-06	0	0.0	2013-12-13
+285 	files/2008notRelevent/article285	Candidates Prepare for Tuesday's Town Hall Debate; Format Is Seen As McCain Forte	2008-10-06	0	0.0	2013-12-13
+286 	files/2008notRelevent/article286	Blaming Deregulation; __	2008-10-06	0	0.0	2013-12-13
+287 	files/2008toCode/article287	Obama Attack Gets Asterisk on Accuracy	2008-10-06	1	0.0	2013-12-13
+288 	files/2008notRelevent/article288	Critiquing the Press	2008-10-06	0	0.0	2013-12-13
+289 	files/2008notRelevent/article289	Capitalism to the Rescue	2008-10-05	0	0.0	2013-12-13
+290 	files/2008notRelevent/article290	Swedish Spoken Here	2008-10-05	0	0.0	2013-12-13
+291 	files/2008notRelevent/article291	PALIN TALK: 10-5-08	2008-10-05	0	0.0	2013-12-13
+292 	files/2008notRelevent/article292	INSIDE THE TIMES: October 5, 2008	2008-10-05	0	0.0	2013-12-13
+293 	files/2008notRelevent/article293	The Counterinsurgent	2008-10-05	0	0.0	2013-12-13
+294 	files/2008notRelevent/article294	Pitbull Palin Mauls McCain	2008-10-05	0	0.0	2013-12-13
+295 	files/2008notRelevent/article295	Politics at the Five-and-Dime; Where Pennies Matter, Change Is a Powerful Idea	2008-10-05	0	0.0	2013-12-13
+296 	files/2008notRelevent/article296	Obama, McCain Saturating Va. With TV Ads	2008-10-05	0	0.0	2013-12-13
+297 	files/2008notRelevent/article297	Financial Papers Show Palins' Assets Top $1 Million	2008-10-04	0	0.0	2013-12-13
+298 	files/2008notRelevent/article298	Obama and '60s Bomber: A Look Into Crossed Paths	2008-10-04	0	0.0	2013-12-13
+299 	files/2008notRelevent/article299	Anxiety On Economy Wins Out	2008-10-04	0	0.0	2013-12-13
+300 	files/2008notRelevent/article300	McCain Plans Fiercer Strategy Against Obama	2008-10-04	0	0.0	2013-12-13
+301 	files/2008notRelevent/article301	McCain Abandons His Efforts to Win Michigan	2008-10-03	0	0.0	2013-12-13
+302 	files/2008toCode/article302	McCain camp pulls out of vote-rich Michigan; Ceding state an 'obvious' choice, adviser says	2008-10-03	1	0.0	2013-12-13
+303 	files/2008notRelevent/article303	The Trail	2008-10-03	0	0.0	2013-12-13
+304 	files/2008toCode/article304	Obama Spot Is Heavy on Supposition	2008-10-03	1	0.0	2013-12-13
+305 	files/2008notRelevent/article305	On TV; Reality, Non-Reality and Everything In-Between	2008-10-03	0	0.0	2013-12-13
+306 	files/2008notRelevent/article306	Independent groups fire barrages through ads; Veterans blast Obama; nurses go after Palin	2008-10-02	0	0.0	2013-12-13
+307 	files/2008notRelevent/article307	For Marylanders, a Drafthouse to Call Their Own	2008-10-02	0	0.0	2013-12-13
+308 	files/2008notRelevent/article308	Obama, McCain Stand United In Pressing Hard for Rescue	2008-10-02	0	0.0	2013-12-13
+309 	files/2008notRelevent/article309	Blogging the Way to Election Day	2008-10-02	0	0.0	2013-12-13
+310 	files/2008notRelevent/article310	Analysis: Vice Presidential Debate	2008-10-02	0	0.0	2013-12-13
+311 	files/2008notRelevent/article311	Betting on the Futures of Politics; Prediction Markets Can Be Powerful -- and Often Profitable	2008-10-02	0	0.0	2013-12-13
+312 	files/2008notRelevent/article312	Celebritology Live: Megan Fox & B.A.G., Sharon Stone & Botox for Kids; You've Been Served... a Heaping Plate of Gossip	2008-10-02	0	0.0	2013-12-13
+313 	files/2008notRelevent/article313	Building Better Bodies	2008-10-01	0	0.0	2013-12-13
+314 	files/2008notRelevent/article314	Though an Experienced Debater, Biden Is Often Tripped Up by Spontaneity	2008-10-01	0	0.0	2013-12-13
+315 	files/2008notRelevent/article315	...While Obama Discusses His Tax Plans	2008-10-01	0	0.0	2013-12-13
+316 	files/2008toCode/article316	Keeping Contributions Safe	2008-10-01	1	0.0	2013-12-13
+317 	files/2008notRelevent/article317	Candidates 'Approve' Ads and Get a Bit Creative	2008-10-01	0	0.0	2013-12-13
+318 	files/2008notRelevent/article318	G.O.P. Commercial Focuses on the Bailout...	2008-10-01	0	0.0	2013-12-13
+319 	files/2008notRelevent/article319	People share blame for bailout	2008-10-01	0	0.0	2013-12-13
+320 	files/2008toCode/article320	McCain, Obama offer ideas for rescue package; Both want raise in federal deposit insurance limit	2008-10-01	1	0.0	2013-12-13
+321 	files/2008notRelevent/article321	Nov. 4 Isn't the Only Election Day; Campaigns Adjust as Early Voting Rises	2008-10-01	0	0.0	2013-12-13
+322 	files/2008notRelevent/article322	Candidates Follow Up on Plan; Both Men Talk to President, as Well as Members of Their Parties in Congress	2008-10-01	0	0.0	2013-12-13
+323 	files/2008notRelevent/article323	Shooting From the Hip, With a Smile to Boot	2008-10-01	0	0.0	2013-12-13
+324 	files/2008notRelevent/article324	A Two-Pronged Push To Aid Ailing Banks	2008-10-01	0	0.0	2013-12-13
+325 	files/2008notRelevent/article325	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-10-01	0	0.0	2013-12-13
+326 	files/2008toCode/article326	Debate Viewership Slips	2008-09-30	1	0.0	2013-12-13
+327 	files/2008toCode/article327	It's an 'extremely worrisome situation'; Concerns multiply about deeper crisis	2008-09-30	1	0.0	2013-12-13
+328 	files/2008notRelevent/article328	Politics, fear spell doom for bailout; Bush, House leaders can't stop backlash	2008-09-30	0	0.0	2013-12-13
+329 	files/2008notRelevent/article329	House Rejects Financial Rescue, Sending Stocks Plummeting	2008-09-30	0	0.0	2013-12-13
+330 	files/2008notRelevent/article330	Democrats See the Pros and Cons of Letting Biden Be Biden	2008-09-30	0	0.0	2013-12-13
+331 	files/2008toCode/article331	Biden and Palin Prepare to Tangle	2008-09-29	1	0.0	2013-12-13
+332 	files/2008notRelevent/article332	Rivals in Ala. race both claim conservative tag; Dems hope to wrest away House seat long held by Republicans	2008-09-29	0	0.0	2013-12-13
+333 	files/2008notRelevent/article333	McCain's Lost Chance; Obama Holds His Own on Foreign Policy	2008-09-29	0	0.0	2013-12-13
+334 	files/2008notRelevent/article334	'Substantive' Press Is Taken for a Spin	2008-09-29	0	0.0	2013-12-13
+335 	files/2008notRelevent/article335	Critiquing the Press	2008-09-29	0	0.0	2013-12-13
+336 	files/2008notRelevent/article336	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-29	0	0.0	2013-12-13
+337 	files/2008notRelevent/article337	McCain's Suspension Bridge to Nowhere	2008-09-28	0	0.0	2013-12-13
+338 	files/2008notRelevent/article338	Too Good To Be True? It Usually Is.; Snopes.com Sniffs Out What You Can Believe	2008-09-28	0	0.0	2013-12-13
+339 	files/2008notRelevent/article339	McCain Ready for A Change Of Subject; Credit Crisis Has Given Obama a Distinct Edge	2008-09-28	0	0.0	2013-12-13
+340 	files/2008toCode/article340	I'm Your Pastor, and I Approved This Ad	2008-09-27	1	0.0	2013-12-13
+341 	files/2008toCode/article341	The Election and the Language of Race	2008-09-27	1	0.0	2013-12-13
+342 	files/2008notRelevent/article342	McCain's High Horse Meets Obama's High-Mindedness	2008-09-27	0	0.0	2013-12-13
+343 	files/2008notRelevent/article343	Credit Enters A Lockdown	2008-09-26	0	0.0	2013-12-13
+344 	files/2008notRelevent/article344	DUBIOUS CLAIMS IN OBAMA'S ADS	2008-09-26	0	0.0	2013-12-13
+345 	files/2008notRelevent/article345	Thinking About McCain	2008-09-26	0	0.0	2013-12-13
+346 	files/2008notRelevent/article346	Tonight's Debate Still in Limbo As Blame Passes Back and Forth	2008-09-26	0	0.0	2013-12-13
+347 	files/2008notRelevent/article347	Drama King to the Rescue	2008-09-26	0	0.0	2013-12-13
+348 	files/2008notRelevent/article348	Deal or No Deal?	2008-09-26	0	0.0	2013-12-13
+349 	files/2008notRelevent/article349	Broder on Politics	2008-09-26	0	0.0	2013-12-13
+350 	files/2008notRelevent/article350	Bring on the Rubber Chicken	2008-09-25	0	0.0	2013-12-13
+351 	files/2008notRelevent/article351	Lobbyists in 'feeding frenzy'; Financial groups flexing muscles for provisions of $700 billion bailout	2008-09-25	0	0.0	2013-12-13
+352 	files/2008notRelevent/article352	Debates aren't do or die; Subtleties, rather than gaffes, often determine the winner of these duels	2008-09-25	0	0.0	2013-12-13
+353 	files/2008notRelevent/article353	Election could ride on voter comfort level with nominee	2008-09-25	0	0.0	2013-12-13
+354 	files/2008toCode/article354	At debates, less is more	2008-09-25	1	0.0	2013-12-13
+355 	files/2008notRelevent/article355	To Craft a Rescue, Go Back to Andrews; A Past Budget Summit's Bipartisan Model	2008-09-25	0	0.0	2013-12-13
+356 	files/2008notRelevent/article356	Potomac Confidential; Washington's Hour of Talk Power	2008-09-25	0	0.0	2013-12-13
+357 	files/2008notRelevent/article357	McCain Aide's Firm Was Paid by Freddie Mac	2008-09-24	0	0.0	2013-12-13
+358 	files/2008notRelevent/article358	Pinpoint Attacks Focus on Obama	2008-09-24	0	0.0	2013-12-13
+359 	files/2008toCode/article359	McCain and Social Security	2008-09-24	1	0.0	2013-12-13
+360 	files/2008notRelevent/article360	PINPOINT ATTACKS FOCUS ON OBAMA	2008-09-24	0	0.0	2013-12-13
+361 	files/2008notRelevent/article361	PINPOINT ATTACKS FOCUS ON OBAMA	2008-09-24	0	0.0	2013-12-13
+362 	files/2008notRelevent/article362	The Words Left Unspoken in the Bailout Debate	2008-09-24	0	0.0	2013-12-13
+363 	files/2008notRelevent/article363	Talked-About Ads Were Seldom Aired; Campaigns Capitalize on Controversy	2008-09-24	0	0.0	2013-12-13
+364 	files/2008notRelevent/article364	McCain Aide's Firm Was Paid Recently; Davis Said Work for Freddie Had Ceased	2008-09-24	0	0.0	2013-12-13
+365 	files/2008toCode/article365	Obama's Chicago, in McCain's Eyes	2008-09-23	1	0.0	2013-12-13
+366 	files/2008toCode/article366	Banking Deregulation and McCain's Health Plan	2008-09-23	1	0.0	2013-12-13
+367 	files/2008notRelevent/article367	Fact checkers find rivals' ads low on truth	2008-09-23	0	0.0	2013-12-13
+368 	files/2008toCode/article368	McCain leads Obama in race to distort each other's records	2008-09-23	1	0.0	2013-12-13
+369 	files/2008notRelevent/article369	A New Landscape, the Same Proposals	2008-09-23	0	0.0	2013-12-13
+370 	files/2008notRelevent/article370	Hitting Hard on Debatable Points	2008-09-23	0	0.0	2013-12-13
+371 	files/2008notRelevent/article371	His Kind of Town; Scranton Loves Biden, but Can It Warm to Obama?	2008-09-23	0	0.0	2013-12-13
+372 	files/2008notRelevent/article372	McCain Loses His Head	2008-09-23	0	0.0	2013-12-13
+373 	files/2008notRelevent/article373	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-23	0	0.0	2013-12-13
+374 	files/2008notRelevent/article374	Loan Titans Paid McCain Adviser Nearly $2 Million	2008-09-22	0	0.0	2013-12-13
+375 	files/2008notRelevent/article375	McCain and Obama Urge Greater Oversight in a Financial Bailout Plan	2008-09-22	0	0.0	2013-12-13
+376 	files/2008toCode/article376	Barack Obama, John McCain and the Language of Race	2008-09-22	1	0.0	2013-12-13
+377 	files/2008toCode/article377	Candidates slug through Wall Street mess	2008-09-22	1	0.0	2013-12-13
+378 	files/2008notRelevent/article378	Democrats have sights on Va. as battleground; Voting patterns have shifted, but southern region is solidly GOP	2008-09-22	0	0.0	2013-12-13
+379 	files/2008notRelevent/article379	Ad Men	2008-09-22	0	0.0	2013-12-13
+380 	files/2008notRelevent/article380	Closing the Whopper Gap	2008-09-22	0	0.0	2013-12-13
+381 	files/2008notRelevent/article381	As the Battle Rages, It's Time to Check the Pulse of Swing States	2008-09-22	0	0.0	2013-12-13
+382 	files/2008notRelevent/article382	Virginians Giving At Record Pace to Obama, McCain	2008-09-22	0	0.0	2013-12-13
+383 	files/2008notRelevent/article383	Sen. Barack Obama Speaks at Campaign Event in Green Bay, Wisconsin	2008-09-22	0	0.0	2013-12-13
+384 	files/2008notRelevent/article384	Outlook: No White House Honeymoon; While Task Looks Daunting, Presidents Who Clean Up After Predecessors Earn High Marks	2008-09-22	0	0.0	2013-12-13
+385 	files/2008notRelevent/article385	Critiquing the Press	2008-09-22	0	0.0	2013-12-13
+386 	files/2008notRelevent/article386	Roads and Rails	2008-09-22	0	0.0	2013-12-13
+387 	files/2008notRelevent/article387	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-22	0	0.0	2013-12-13
+388 	files/2008notRelevent/article388	The Left's Favorite Righty	2008-09-22	0	0.0	2013-12-13
+389 	files/2008notRelevent/article389	Truthiness Stages a Comeback	2008-09-21	0	0.0	2013-12-13
+390 	files/2008notRelevent/article390	The Push To 'Otherize' Obama	2008-09-21	0	0.0	2013-12-13
+391 	files/2008notRelevent/article391	At Ole Miss, a Valedictory to the Old South	2008-09-21	0	0.0	2013-12-13
+392 	files/2008notRelevent/article392	Obama Hopes to Reverse Party Fortunes in Vote-Rich Fla.	2008-09-21	0	0.0	2013-12-13
+393 	files/2008toCode/article393	McCain Tries to Link Obama to Financial Crisis	2008-09-20	1	0.0	2013-12-13
+394 	files/2008notRelevent/article394	McCain's Camp Tests Fund-Raising Limits	2008-09-20	0	0.0	2013-12-13
+395 	files/2008notRelevent/article395	As Fingers Point in the Financial Crisis, Many of Them Are Aimed at Bush	2008-09-20	0	0.0	2013-12-13
+396 	files/2008toCode/article396	Judging a Man by the Company He Keeps	2008-09-20	1	0.0	2013-12-13
+397 	files/2008toCode/article397	Obama Attacks McCain in a Bid to Attract Hispanic Voters	2008-09-19	1	0.0	2013-12-13
+398 	files/2008notRelevent/article398	Inside The Times: September 19th, 2008	2008-09-19	0	0.0	2013-12-13
+399 	files/2008toCode/article399	Immigration Deception	2008-09-19	1	0.0	2013-12-13
+400 	files/2008notRelevent/article400	Fixing the economy; How would Barack Obama or John McCain really respond to the nation's financial turmoil? For a clue, check out their economic advisers.; Finance, business vets help guide contenders	2008-09-19	0	0.0	2013-12-13
+401 	files/2008notRelevent/article401	As Michigan Goes . . .; __	2008-09-19	0	0.0	2013-12-13
+402 	files/2008notRelevent/article402	Obama, McCain Trade Shots Over Responses to Financial Meltdown	2008-09-19	0	0.0	2013-12-13
+403 	files/2008notRelevent/article403	Trying to Get Christian Music Fans to Tune To the Left	2008-09-19	0	0.0	2013-12-13
+404 	files/2008notRelevent/article404	'Always for Less Regulation'?; John McCain's record on Wall Street oversight gets some misleading spin from Barack Obama.	2008-09-19	0	0.0	2013-12-13
+405 	files/2008notRelevent/article405	GOP Sees Rebound in Battle for Congress; Party Hopes Momentum Will Help Limit Losses	2008-09-19	0	0.0	2013-12-13
+406 	files/2008toCode/article406	McCain, on the Economy	2008-09-18	1	0.0	2013-12-13
+407 	files/2008toCode/article407	The McCain Of the Week	2008-09-18	1	0.0	2013-12-13
+408 	files/2008toCode/article408	Saturating the Swing States	2008-09-18	1	0.0	2013-12-13
+409 	files/2008toCode/article409	Economic upheaval shakes campaign debate; Bleak outlook shunts other issues aside	2008-09-18	1	0.0	2013-12-13
+410 	files/2008toCode/article410	Recent Obama Ads More Negative Than Rival's, Study Says; Democrat Said to Be Facing Pressure to 'Show Some Spine'	2008-09-18	1	0.0	2013-12-13
+411 	files/2008notRelevent/article411	Potomac Confidential; Washington's Hour of Talk Power	2008-09-18	0	0.0	2013-12-13
+412 	files/2008notRelevent/article412	The Drudge Retort	2008-09-18	0	0.0	2013-12-13
+413 	files/2008notRelevent/article413	Abortion Issue Again Dividing Catholic Votes	2008-09-17	0	0.0	2013-12-13
+414 	files/2008notRelevent/article414	As Long-Term Answer, Some Seek Agency to Buy Bad Debt	2008-09-17	0	0.0	2013-12-13
+415 	files/2008toCode/article415	Candidates' comments center on economics; Obama, McCain try to reassure voters on finances	2008-09-17	1	0.0	2013-12-13
+416 	files/2008notRelevent/article416	Pigskin Weather Gives NBC the Ratings Edge	2008-09-17	0	0.0	2013-12-13
+417 	files/2008notRelevent/article417	McCain Able to Skirt Limits of Federal Financing	2008-09-17	0	0.0	2013-12-13
+418 	files/2008notRelevent/article418	The Ugly New McCain	2008-09-17	0	0.0	2013-12-13
+419 	files/2008toCode/article419	Obama's Panic	2008-09-17	1	0.0	2013-12-13
+420 	files/2008notRelevent/article420	GOP Rally Reaches Out To Minorities	2008-09-17	0	0.0	2013-12-13
+421 	files/2008notRelevent/article421	McCain Embraces Regulation After Many Years of Opposition	2008-09-17	0	0.0	2013-12-13
+422 	files/2008notRelevent/article422	McCain, Palin Rally Supporters; Vienna, Ohio	2008-09-17	0	0.0	2013-12-13
+423 	files/2008notRelevent/article423	Real Life Politics	2008-09-17	0	0.0	2013-12-13
+424 	files/2008notRelevent/article424	In a Tight Race, Interest Groups Step Up	2008-09-16	0	0.0	2013-12-13
+425 	files/2008notRelevent/article425	In Candidates, 2 Approaches To Wall Street	2008-09-16	0	0.0	2013-12-13
+426 	files/2008toCode/article426	No title found	2008-09-16	1	0.0	2013-12-13
+427 	files/2008toCode/article427	In Spanish, McCain Criticizes Obama on Immigration	2008-09-16	1	0.0	2013-12-13
+428 	files/2008toCode/article428	Candidates pin blame in financial 'crisis'; But rivals don't agree on causes of Wall St. woes	2008-09-16	1	0.0	2013-12-13
+429 	files/2008notRelevent/article429	Economy Becomes New Proving Ground For McCain, Obama	2008-09-16	0	0.0	2013-12-13
+430 	files/2008toCode/article430	Obama Ad on Lobbying Turns Past Into Present	2008-09-16	1	0.0	2013-12-13
+431 	files/2008toCode/article431	Dissecting the Negatives	2008-09-16	1	0.0	2013-12-13
+432 	files/2008notRelevent/article432	The Trail	2008-09-16	0	0.0	2013-12-13
+433 	files/2008notRelevent/article433	Ad Calls McCain's Campaign 'Dishonorable'; Obama on Offensive To Regain Traction	2008-09-16	0	0.0	2013-12-13
+434 	files/2008notRelevent/article434	Sen. Obama Speaks In Golden, Col. on the Economy	2008-09-16	0	0.0	2013-12-13
+435 	files/2008notRelevent/article435	Election 2008: Economy's Impact on Politics and Policy	2008-09-16	0	0.0	2013-12-13
+436 	files/2008notRelevent/article436	Opinion Focus	2008-09-16	0	0.0	2013-12-13
+437 	files/2008notRelevent/article437	Chatological Humor: The Best Feeling in the World (UPDATED 9.17.08); aka Tuesdays With Moron	2008-09-16	0	0.0	2013-12-13
+438 	files/2008notRelevent/article438	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-16	0	0.0	2013-12-13
+439 	files/2008notRelevent/article439	INSIDE THE TIMES: September 15, 2008	2008-09-15	0	0.0	2013-12-13
+440 	files/2008notRelevent/article440	Both Sides Seeking to Be What Women Want	2008-09-15	0	0.0	2013-12-13
+441 	files/2008toCode/article441	ON NYTIMES.COM	2008-09-15	1	0.0	2013-12-13
+442 	files/2008notRelevent/article442	An Anchor Lets Down Her Hair	2008-09-15	0	0.0	2013-12-13
+443 	files/2008toCode/article443	Scrutiny over lobbyist leaves out key points	2008-09-15	1	0.0	2013-12-13
+444 	files/2008notRelevent/article444	Hispanic Businesses Get Out the Vote; Recruitment Campaigns, Immigration Debate Spur Latinos	2008-09-15	0	0.0	2013-12-13
+445 	files/2008notRelevent/article445	Fey-as-Palin Wins the Early Vote On 'SNL'	2008-09-15	0	0.0	2013-12-13
+446 	files/2008notRelevent/article446	Gibson Trod A Fine Line In Interviews	2008-09-15	0	0.0	2013-12-13
+447 	files/2008notRelevent/article447	Critiquing the Press	2008-09-15	0	0.0	2013-12-13
+448 	files/2008notRelevent/article448	Sen. Joe Biden (D-Del.) Speaks on the Economy	2008-09-15	0	0.0	2013-12-13
+449 	files/2008notRelevent/article449	Science: Department of Human Behavior; Fighting Misinformation in Political Campaigns	2008-09-15	0	0.0	2013-12-13
+450 	files/2008notRelevent/article450	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-15	0	0.0	2013-12-13
+451 	files/2008notRelevent/article451	Where to Direct All That Rage	2008-09-14	0	0.0	2013-12-13
+452 	files/2008notRelevent/article452	Making America Stupid	2008-09-14	0	0.0	2013-12-13
+453 	files/2008notRelevent/article453	Campaign, and Complaints, Heat Up	2008-09-14	0	0.0	2013-12-13
+454 	files/2008notRelevent/article454	Group With Swift Boat Alumni Readies Ads Attacking Obama; -	2008-09-14	0	0.0	2013-12-13
+455 	files/2008toCode/article455	Obama Points to the Issues; Ignore Attacks, Democrat Implores	2008-09-14	1	0.0	2013-12-13
+456 	files/2008toCode/article456	Portraying McCain as a Man of the Past	2008-09-13	1	0.0	2013-12-13
+457 	files/2008notRelevent/article457	McCain Barbs Stirring Outcry As Distortions	2008-09-13	0	0.0	2013-12-13
+458 	files/2008notRelevent/article458	Inside The Times: September 13th, 2008	2008-09-13	0	0.0	2013-12-13
+459 	files/2008toCode/article459	A Big Regulator for the Little Investor	2008-09-13	1	0.0	2013-12-13
+460 	files/2008toCode/article460	A Sharp Attack on Obama	2008-09-13	1	0.0	2013-12-13
+461 	files/2008toCode/article461	McCain Wraps Distortions Around One Truth	2008-09-13	1	0.0	2013-12-13
+462 	files/2008toCode/article462	A Privacy Shield Against the Campaigns	2008-09-13	1	0.0	2013-12-13
+463 	files/2008notRelevent/article463	Obama Campaign Begins Counterattack	2008-09-13	0	0.0	2013-12-13
+464 	files/2008toCode/article464	Biden's Son Quits Lobbying	2008-09-13	1	0.0	2013-12-13
+465 	files/2008toCode/article465	Candidates Take Break, of Sorts, to Mark 7th Anniversary of the 9/11 Attacks	2008-09-12	1	0.0	2013-12-13
+466 	files/2008toCode/article466	A Message From John McCain	2008-09-12	1	0.0	2013-12-13
+467 	files/2008notRelevent/article467	Health Care Issue, Not Quite Hot, Remains Strong	2008-09-12	0	0.0	2013-12-13
+468 	files/2008notRelevent/article468	Inside The Times September 12th, 2008	2008-09-12	0	0.0	2013-12-13
+469 	files/2008notRelevent/article469	On the Web, a Nonpartisan Look at Those Partisan Campaign Ads	2008-09-12	0	0.0	2013-12-13
+470 	files/2008notRelevent/article470	Candidates Promise National-Service Initiatives	2008-09-12	0	0.0	2013-12-13
+471 	files/2008notRelevent/article471	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-12	0	0.0	2013-12-13
+472 	files/2008notRelevent/article472	INSIDE THE TIMES: September 11, 2008	2008-09-11	0	0.0	2013-12-13
+473 	files/2008toCode/article473	All Too Quiet on the Homeland Front	2008-09-11	1	0.0	2013-12-13
+474 	files/2008toCode/article474	Misery Loves Democrats	2008-09-11	1	0.0	2013-12-13
+475 	files/2008toCode/article475	Ad on Sex Education Distorts Obama Policy	2008-09-11	1	0.0	2013-12-13
+476 	files/2008notRelevent/article476	Troubling Signs for Obama in Pennsylvania	2008-09-11	0	0.0	2013-12-13
+477 	files/2008notRelevent/article477	McCain Camp Hits Obama On More Than One Front	2008-09-11	0	0.0	2013-12-13
+478 	files/2008toCode/article478	McCain's 'Education' Spot Is Dishonest, Deceptive	2008-09-11	1	0.0	2013-12-13
+479 	files/2008notRelevent/article479	The Ads That Aren't; Candidates Let Media Spread the Message	2008-09-11	0	0.0	2013-12-13
+480 	files/2008toCode/article480	What's the Pig Deal?; With a phony flap and a misleading attack ad, the McCain campaign sinks into silliness.	2008-09-11	1	0.0	2013-12-13
+481 	files/2008notRelevent/article481	She's the Star the GOP Hitched Its Bandwagon To	2008-09-11	0	0.0	2013-12-13
+482 	files/2008notRelevent/article482	Virginians Fasten Seat Belts as Obama, McCain Dig In	2008-09-11	0	0.0	2013-12-13
+483 	files/2008notRelevent/article483	Potomac Confidential; Washington's Hour of Talk Power	2008-09-11	0	0.0	2013-12-13
+484 	files/2008notRelevent/article484	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-11	0	0.0	2013-12-13
+485 	files/2008notRelevent/article485	Protecting Your Assets: Some Strategies	2008-09-10	0	0.0	2013-12-13
+486 	files/2008notRelevent/article486	For '08 Rivals, A Skein of Ties To Loan Giants	2008-09-10	0	0.0	2013-12-13
+487 	files/2008toCode/article487	No title found	2008-09-10	1	0.0	2013-12-13
+488 	files/2008notRelevent/article488	Feeling a Challenge, Obama Sharpens His Silver Tongue	2008-09-10	0	0.0	2013-12-13
+489 	files/2008notRelevent/article489	Campaigns Adjust Their Pace to Meet Short Season	2008-09-10	0	0.0	2013-12-13
+490 	files/2008notRelevent/article490	Reduced Dominance Is Predicted for U.S.; Analyst Previews Report to Next President	2008-09-10	0	0.0	2013-12-13
+491 	files/2008toCode/article491	My 38.9 Million Fellow Americans . . .	2008-09-10	1	0.0	2013-12-13
+492 	files/2008notRelevent/article492	Three Presidents Get My Vote	2008-09-10	0	0.0	2013-12-13
+493 	files/2008notRelevent/article493	Post Politics Hour; washingtonpost.com's Daily Politics Discussion	2008-09-10	0	0.0	2013-12-13
+494 	files/2008notRelevent/article494	Palin Panic	2008-09-10	0	0.0	2013-12-13
+495 	files/2008toCode/article495	U.S. Backs Off Civilian Nuclear Pact With Russia	2008-09-09	1	0.0	2013-12-13
+496 	files/2008notRelevent/article496	Forgoing Subsidy, Obama Team Presses Donors	2008-09-09	0	0.0	2013-12-13
+497 	files/2008notRelevent/article497	Surprise Me Most	2008-09-09	0	0.0	2013-12-13
+498 	files/2008notRelevent/article498	A Risky High-Wire Act	2008-09-09	0	0.0	2013-12-13
+499 	files/2008notRelevent/article499	Very different visions; The conventions clearly demonstrated why the Democratic Party and the Republican Party are still worlds apart.	2008-09-09	0	0.0	2013-12-13
+500 	files/2008toCode/article500	Disconnect on Palin's bridge line	2008-09-09	1	0.0	2013-12-13
+
+
+
+1 	files/2008notRelevent/article1	Obama and McCain Have Breakout Game	2008-11-04	0	files/testHTML.html	2013-12-14
+2 	files/2008notRelevent/article2	Beyond Election Day	2008-11-04	0	files/testHTML.html	2013-12-14
+3 	files/2008notRelevent/article3	Minute by Minute, a Final Hectic Day on the Campaign Trail	2008-11-04	0	files/testHTML.html	2013-12-14

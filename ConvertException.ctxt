@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ConvertException()
+comment1.params=message
+comment1.target=ConvertException(java.lang.String)
+comment2.params=message\ cause
+comment2.target=ConvertException(java.lang.String,\ java.lang.Throwable)
+comment3.params=cause
+comment3.target=ConvertException(java.lang.Throwable)
+numComments=4
